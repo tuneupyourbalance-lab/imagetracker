@@ -64,6 +64,42 @@
       "query": "A24 The Drama soundtrack vinyl clear glitter LP",
       "color": "#3a3a5a",
       "keywords": ""
+    },
+    {
+      "name": "마티 수프림 x 나미아스 윈드브레이커",
+      "dir": "marty_supreme_windbreaker",
+      "type": ["manual", "google_images"],
+      "urls": ["https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F12%2F22%2Fmarty-supreme-jacket-timothee-chalamet-a24-merchandise-tw.jpg?w=1080&cbr=1&q=90&fit=max"],
+      "query": "Marty Supreme Nahmias windbreaker A24 Timothee Chalamet",
+      "color": "#c0392b",
+      "keywords": ""
+    },
+    {
+      "name": "미나리 Yi Family Farm 티셔츠",
+      "dir": "minari_tee",
+      "type": ["manual", "google_images"],
+      "urls": ["https://shop.a24films.com/cdn/shop/files/A24210003-minari-tee-gray.02-v1623335960019.jpg?v=1759511891&width=1200"],
+      "query": "A24 Minari Yi Family Farm tee shirt merch",
+      "color": "#3a5a2a",
+      "keywords": ""
+    },
+    {
+      "name": "에에올 핫도그 손가락 장갑",
+      "dir": "eeaao_hotdog_hands",
+      "type": ["manual", "google_images"],
+      "urls": ["https://shop.a24films.com/cdn/shop/files/ASW22024-front-and-back-gray-3x2-_1_-v1649780310410.jpg?v=1759438135&width=1200"],
+      "query": "Everything Everywhere All at Once A24 hot dog finger gloves merch",
+      "color": "#d4a017",
+      "keywords": ""
+    },
+    {
+      "name": "유포리아 x 하프매직 페이스 젬",
+      "dir": "euphoria_half_magic_gems",
+      "type": ["manual", "google_images"],
+      "urls": ["http://halfmagicbeauty.com/cdn/shop/files/1_83e9b4e3-d841-44d9-a3de-65c350186895.png?crop=center&height=1200&v=1776628953&width=1200"],
+      "query": "Euphoria Half Magic Beauty Donni Davy face gems A24",
+      "color": "#9b59b6",
+      "keywords": ""
     }
   ]
 }
