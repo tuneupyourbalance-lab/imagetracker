@@ -1,0 +1,69 @@
+{
+  "slug": "a24-goods",
+  "title": "완판까지 딱 한 시간, A24가 굿즈를 파는 법",
+  "spots": [
+    {
+      "name": "영화 <더 드라마> 포스터",
+      "dir": "the_drama_poster",
+      "type": ["manual", "google_images"],
+      "urls": ["https://upload.wikimedia.org/wikipedia/en/5/54/The_Drama_%28film%29_poster.jpg"],
+      "query": "The Drama 2026 A24 movie poster Zendaya Robert Pattinson",
+      "color": "#1a1a2e",
+      "keywords": ""
+    },
+    {
+      "name": "에밀리 던 롱 빈티지 티",
+      "dir": "edl_vintage_tee",
+      "type": ["manual", "google_images"],
+      "urls": ["https://shop.a24films.com/cdn/shop/files/29FRONT_33ec311e-704b-4bd5-bf31-4ea62a90fa5b.jpg?v=1775166558&width=1200"],
+      "query": "A24 The Drama Emily Dawn Long vintage tee To Be Loved Is To Be Known",
+      "color": "#7a5a3a",
+      "keywords": ""
+    },
+    {
+      "name": "프레잉 후디",
+      "dir": "praying_hoodie",
+      "type": ["manual", "google_images"],
+      "urls": ["https://cdn.mediaplaynews.com/wp-content/uploads/2026/05/Drama-products.jpg"],
+      "query": "A24 The Drama Praying hoodie Team Charlie Team Emma",
+      "color": "#1a1a1a",
+      "keywords": ""
+    },
+    {
+      "name": "에밀리 던 롱 캡",
+      "dir": "edl_cap",
+      "type": ["manual", "google_images"],
+      "urls": ["https://cdn.mediaplaynews.com/wp-content/uploads/2026/05/Drama-products.jpg"],
+      "query": "A24 The Drama Emily Dawn Long hat cap merch",
+      "color": "#5a4a3a",
+      "keywords": ""
+    },
+    {
+      "name": "카드 게임",
+      "dir": "the_drama_card_game",
+      "type": ["manual", "google_images"],
+      "urls": ["https://shop.a24films.com/cdn/shop/files/20260316_A24_TheDrama_TheCardGame_9783_3x2_gray_EDITED.jpg?v=1773858657&width=1200"],
+      "query": "A24 The Drama card game Low Drama High Drama",
+      "color": "#6a1a2a",
+      "keywords": ""
+    },
+    {
+      "name": "케이크 토퍼",
+      "dir": "the_drama_cake_topper",
+      "type": ["manual", "google_images"],
+      "urls": ["https://shop.a24films.com/cdn/shop/files/02_A24_TheDrama_CakeTopper_Box_Front_1x1_gray_5797cbe5-0004-420d-abe8-205a94d2780d.jpg?v=1775092848&width=1200"],
+      "query": "A24 The Drama cake topper Charlie Emma figurine",
+      "color": "#c9a0a0",
+      "keywords": ""
+    },
+    {
+      "name": "OST 바이닐",
+      "dir": "the_drama_vinyl",
+      "type": ["manual", "google_images"],
+      "urls": ["https://shop.a24films.com/cdn/shop/files/01_TheDrama_Vinyl_Cover_With_Record_63689ef7-db58-4f92-8751-8495ce672b1a.jpg?v=1777915725&width=1200"],
+      "query": "A24 The Drama soundtrack vinyl clear glitter LP",
+      "color": "#3a3a5a",
+      "keywords": ""
+    }
+  ]
+}
