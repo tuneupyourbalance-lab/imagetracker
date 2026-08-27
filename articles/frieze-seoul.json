@@ -1,0 +1,71 @@
+{
+  "slug": "frieze-seoul",
+  "title": "프리즈 위크, 서울은 완연한 아트 시티!",
+  "spots": [
+    {
+      "name": "프리즈 서울 (코엑스)",
+      "dir": "frieze_seoul",
+      "type": ["instagram", "naver_place", "manual"],
+      "account": "frieze.seoul",
+      "naver_query": "코엑스 프리즈 서울",
+      "addr": "서울 강남구 영동대로 513 코엑스",
+      "color": "#1a1a1a",
+      "keywords": "프리즈 서울 아트페어 코엑스",
+      "urls": ["https://www.coex.co.kr/wp-content/uploads/2025/12/FSE26_COEX_CalendarListing_KR_610x610px-1.jpg"]
+    },
+    {
+      "name": "리움미술관 <구정아: 우스모스>",
+      "dir": "leeum",
+      "type": ["instagram", "naver_place", "manual"],
+      "account": "leeummuseumofart",
+      "naver_query": "리움미술관 용산",
+      "addr": "서울 용산구 이태원로55길 60-16",
+      "color": "#3a2a1a",
+      "keywords": "구정아 우스모스 전시",
+      "urls": ["https://img1.newsis.com/2026/07/07/NISI20260707_0002179906_web.jpg"]
+    },
+    {
+      "name": "국립현대미술관 서울 <서도호>",
+      "dir": "mmca_seoul",
+      "type": ["instagram", "naver_place", "manual"],
+      "account": "mmcakorea",
+      "naver_query": "국립현대미술관 서울관",
+      "addr": "서울 종로구 삼청로 30",
+      "color": "#2a3a4a",
+      "keywords": "서도호 집 전시",
+      "urls": ["https://cphoto.asiae.co.kr/listimglink/1/2026081213045678131_1786507496.jpg"]
+    },
+    {
+      "name": "신세계갤러리 청담 <앙리 알렉산더 레비>",
+      "dir": "shinsegae_gallery_cheongdam",
+      "type": ["instagram", "naver_place"],
+      "account": "shinsegaegallery",
+      "naver_query": "분더샵 청담",
+      "addr": "서울 강남구 압구정로60길 21 분더샵 청담 지하 1층",
+      "color": "#4a1a1a",
+      "keywords": "앙리 알렉산더 레비 ERD 전시"
+    },
+    {
+      "name": "아모레퍼시픽미술관 <Sol LeWitt: Open Structure>",
+      "dir": "amorepacific_museum",
+      "type": ["instagram", "naver_place", "manual"],
+      "account": "amorepacificmuseum",
+      "naver_query": "아모레퍼시픽미술관",
+      "addr": "서울 용산구 한강대로 100",
+      "color": "#c0392b",
+      "keywords": "솔 르윗 월드로잉 전시",
+      "urls": ["https://stories.amorepacific.com/wp-content/uploads/2026/08/THUM-500X329-2026.jpg"]
+    },
+    {
+      "name": "퐁피두센터 한화 <큐비스트: 시각의 혁신가들>",
+      "dir": "pompidou_hanwha",
+      "type": ["instagram", "naver_place", "manual"],
+      "account": "centrepompidouhanwha",
+      "naver_query": "퐁피두센터 한화 여의도 63빌딩",
+      "addr": "서울 영등포구 63로 50 63빌딩",
+      "color": "#1a3a5a",
+      "keywords": "큐비스트 피카소 브라크 전시",
+      "urls": ["https://img1.newsis.com/2026/05/19/NISI20260519_0021288281_web.jpg"]
+    }
+  ]
+}
