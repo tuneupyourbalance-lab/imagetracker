@@ -16,13 +16,17 @@
     {
       "name": "리움미술관 <구정아: 우스모스>",
       "dir": "leeum",
-      "type": ["instagram", "naver_place", "manual"],
+      "type": ["instagram", "naver_place", "manual", "google_images"],
       "account": "leeummuseumofart",
       "naver_query": "리움미술관 용산",
       "addr": "서울 용산구 이태원로55길 60-16",
       "color": "#3a2a1a",
-      "keywords": "구정아 우스모스 전시",
-      "urls": ["https://img1.newsis.com/2026/07/07/NISI20260707_0002179906_web.jpg"]
+      "keywords": "구정아 우스모스 OUSSSMOS",
+      "query": "Koo Jeong A OUSSSMOS Leeum exhibition artwork",
+      "urls": [
+        "https://img1.newsis.com/2026/07/07/NISI20260707_0002179906_web.jpg",
+        "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best,dpr_2.0/ws-pilarcorrias/usr/images/exhibitions/main_image_override/items/c2/c2ebf39971c24f9b8a770d929e7b1d40/250704-luma-koo-jeong-a-victor-simon-gre-goired-ablon-61-large.jpg"
+      ]
     },
     {
       "name": "국립현대미술관 서울 <서도호>",
