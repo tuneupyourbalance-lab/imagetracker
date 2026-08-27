@@ -70,6 +70,131 @@
       "color": "#1a3a5a",
       "keywords": "큐비스트 피카소 브라크 전시",
       "urls": ["https://img1.newsis.com/2026/05/19/NISI20260519_0021288281_web.jpg"]
+    },
+    {
+      "name": "데이미언 허스트",
+      "dir": "damien_hirst",
+      "type": ["manual", "google_images"],
+      "urls": ["https://gagosian.com/media/images/artists/damien-hirst/Ya20acZ-MGdm_1200x1200.jpg"],
+      "query": "Damien Hirst artist artwork Gagosian",
+      "color": "#8a1a1a",
+      "keywords": ""
+    },
+    {
+      "name": "아니카 이",
+      "dir": "anicka_yi",
+      "type": ["instagram", "manual", "google_images"],
+      "account": "anickayi_studio",
+      "urls": ["https://images.ctfassets.net/cmz556ev1x99/7b2xvxx0WAHAxnTpfHQqvt/2f5f9794ea5c56a3405f6e2b5596abaa/AY303_e.jpg?w=1200&h=630&fit=fill"],
+      "query": "Anicka Yi artist artwork installation",
+      "color": "#4a6a5a",
+      "keywords": ""
+    },
+    {
+      "name": "양혜규",
+      "dir": "haegue_yang",
+      "type": ["instagram", "google_images"],
+      "account": "yanghaegue",
+      "query": "양혜규 작가 작품 Haegue Yang installation",
+      "color": "#2a4a6a",
+      "keywords": ""
+    },
+    {
+      "name": "바이런 킴",
+      "dir": "byron_kim",
+      "type": ["google_images"],
+      "query": "Byron Kim artist Synecdoche portrait",
+      "color": "#6a4a2a",
+      "keywords": ""
+    },
+    {
+      "name": "김창열",
+      "dir": "kim_tschangyeul",
+      "type": ["google_images"],
+      "query": "김창열 화가 물방울 작품",
+      "color": "#2a5a6a",
+      "keywords": ""
+    },
+    {
+      "name": "쿠사마 야요이",
+      "dir": "yayoi_kusama",
+      "type": ["google_images"],
+      "query": "Yayoi Kusama Portrait Yayoi-Chan self portrait polka dot",
+      "color": "#c0392b",
+      "keywords": ""
+    },
+    {
+      "name": "콜렉티브 야광",
+      "dir": "yagwang_collective",
+      "type": ["google_images"],
+      "query": "콜렉티브 야광 김태리 전인 작가 작품 설치",
+      "color": "#3a3a3a",
+      "keywords": ""
+    },
+    {
+      "name": "문경원·전준호",
+      "dir": "moon_jeon",
+      "type": ["google_images"],
+      "query": "문경원 전준호 작가 모바일 아고라 설치",
+      "color": "#4a4a2a",
+      "keywords": ""
+    },
+    {
+      "name": "카린 크네펠",
+      "dir": "karin_kneffel",
+      "type": ["google_images"],
+      "query": "Karin Kneffel artist hyperrealistic painting",
+      "color": "#5a3a2a",
+      "keywords": ""
+    },
+    {
+      "name": "라이언 갠더",
+      "dir": "ryan_gander",
+      "type": ["instagram", "google_images"],
+      "account": "ryanjgander",
+      "query": "Ryan Gander artist The Find Seoul installation",
+      "color": "#2a2a4a",
+      "keywords": ""
+    },
+    {
+      "name": "김환기",
+      "dir": "kim_whanki",
+      "type": ["google_images"],
+      "query": "김환기 화가 작품 우주 전면점화 Kim Whanki",
+      "color": "#1a3a6a",
+      "keywords": ""
+    },
+    {
+      "name": "유영국",
+      "dir": "yoo_youngkuk",
+      "type": ["google_images"],
+      "query": "유영국 화가 작품 산 추상 Yoo Youngkuk",
+      "color": "#2a4a2a",
+      "keywords": ""
+    },
+    {
+      "name": "박래현",
+      "dir": "park_rehyun",
+      "type": ["google_images"],
+      "query": "박래현 화가 노점 작품 Park Rehyun",
+      "color": "#6a3a3a",
+      "keywords": ""
+    },
+    {
+      "name": "이수억",
+      "dir": "lee_sooeok",
+      "type": ["google_images"],
+      "query": "이수억 화가 6.25동란 작품 1954",
+      "color": "#3a3a3a",
+      "keywords": ""
+    },
+    {
+      "name": "함대정",
+      "dir": "ham_daejeong",
+      "type": ["google_images"],
+      "query": "함대정 화가 작품 추상 1950년대",
+      "color": "#4a3a2a",
+      "keywords": ""
     }
   ]
 }
