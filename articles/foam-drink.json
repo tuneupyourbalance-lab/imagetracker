@@ -1,0 +1,94 @@
+{
+  "slug": "foam-drink",
+  "title": "음료 위 구름 한 조각 올려! 폼 음료 트렌드 (하퍼스바자 최노아)",
+  "spots": [
+    {
+      "name": "헤이티 (HEYTEA) — 치즈폼의 원조",
+      "dir": "heytea",
+      "type": [
+        "instagram",
+        "naver_place",
+        "google_images",
+        "diningcode"
+      ],
+      "account": "heytea.kr",
+      "keywords": "클라우드 치즈폼 말차 피스타치오 자스민 밀크티 모찌",
+      "naver_query": "헤이티 명동",
+      "query": "헤이티 클라우드 말차 라테 피스타치오 클라우드 자스민 치즈폼 음료",
+      "addr": "서울 중구 명동 (명동점 3개 층) · 홍대 · 신사 가로수길",
+      "color": "#1f4d3d",
+      "diningcode_query": "헤이티 명동"
+    },
+    {
+      "name": "차지 (CHAGEE) — 찻잎 향미 집중",
+      "dir": "chagee",
+      "type": [
+        "instagram",
+        "naver_place",
+        "google_images",
+        "diningcode"
+      ],
+      "account": "chagee.kr",
+      "keywords": "다홍포 보야 자스민 밀크티 우롱 찻잎 저당",
+      "naver_query": "차지 강남",
+      "query": "차지 CHAGEE 다홍포 밀크티 보야 자스민 밀크티 음료",
+      "addr": "서울 서초구 강남대로 407 (강남 플래그십) · 용산 · 신촌 · 역삼 · 시청 · 종로 · 건대",
+      "color": "#8b1a2b",
+      "diningcode_query": "차지 강남"
+    },
+    {
+      "name": "차백도 (ChaPanda) — 타로볼·우유푸딩",
+      "dir": "chapanda",
+      "type": [
+        "instagram",
+        "naver_place",
+        "google_images",
+        "diningcode"
+      ],
+      "account": "chapandakorea",
+      "keywords": "타로볼 우유푸딩 치즈폼 콩가루 우롱 소이빈 생과일 펄",
+      "naver_query": "차백도 강남한티",
+      "query": "차백도 우롱 소이빈 밀크티 치즈폼 콩가루 타로볼 우유푸딩",
+      "addr": "서울 강남구 (강남한티 플래그십) · 홍대 · 건대 · 명동 · 잠실 등",
+      "color": "#2f6b3f",
+      "diningcode_query": "차백도 강남한티"
+    },
+    {
+      "name": "더정 우롱티프로젝트 — 우롱차 전문",
+      "dir": "thejeong",
+      "type": [
+        "naver_place",
+        "google_images",
+        "diningcode"
+      ],
+      "naver_query": "더정 우롱티프로젝트 서촌",
+      "query": "더정 우롱티프로젝트 다크로스티드 우롱티 치즈밀크폼 우롱젤리",
+      "addr": "서울 종로구 서촌 (본점) · 종로 그랑서울점",
+      "color": "#6b4423",
+      "diningcode_query": "더정 우롱티프로젝트"
+    },
+    {
+      "name": "다밍 (Daming) — 아보카도 크림 밀크티",
+      "dir": "daming",
+      "type": [
+        "naver_place",
+        "google_images",
+        "diningcode"
+      ],
+      "naver_query": "다밍 성수",
+      "query": "다밍 아보카도 크림 밀크티 메밀젤리 성수 대만 밀크티",
+      "addr": "서울 성동구 뚝섬로 396 (뚝도시장 사거리 초입)",
+      "color": "#4a6b2a",
+      "diningcode_query": "다밍 성수"
+    },
+    {
+      "name": "폼 종류 컷 (밀크·치즈·말차·아보카도)",
+      "dir": "foam_types",
+      "type": [
+        "google_images"
+      ],
+      "query": "치즈폼 밀크폼 말차폼 아보카도폼 클라우드 음료 레이어 클로즈업",
+      "color": "#c8a96a"
+    }
+  ]
+}

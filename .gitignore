@@ -1,3 +1,5 @@
 .vercel
 ig_session*
 .env*
+.ig_profile/
+__pycache__/
