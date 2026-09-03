@@ -57,6 +57,7 @@
       "name": "더정 우롱티프로젝트 — 우롱차 전문",
       "dir": "thejeong",
       "type": [
+        "instagram",
         "naver_place",
         "google_images",
         "diningcode"
@@ -65,12 +66,15 @@
       "query": "더정 우롱티프로젝트 다크로스티드 우롱티 치즈밀크폼 우롱젤리",
       "addr": "서울 종로구 서촌 (본점) · 종로 그랑서울점",
       "color": "#6b4423",
-      "diningcode_query": "더정 우롱티프로젝트"
+      "diningcode_query": "더정 우롱티프로젝트",
+      "account": "oolongteaprojectkr",
+      "keywords": "우롱티 치즈밀크폼 다크로스티드 젤리 우롱차"
     },
     {
       "name": "다밍 (Daming) — 아보카도 크림 밀크티",
       "dir": "daming",
       "type": [
+        "instagram",
         "naver_place",
         "google_images",
         "diningcode"
@@ -79,7 +83,9 @@
       "query": "다밍 아보카도 크림 밀크티 메밀젤리 성수 대만 밀크티",
       "addr": "서울 성동구 뚝섬로 396 (뚝도시장 사거리 초입)",
       "color": "#4a6b2a",
-      "diningcode_query": "다밍 성수"
+      "diningcode_query": "다밍 성수",
+      "account": "daming_korea",
+      "keywords": "아보카도 크림 밀크티 메밀젤리 우롱 동과차 홍차"
     },
     {
       "name": "폼 종류 컷 (밀크·치즈·말차·아보카도)",
