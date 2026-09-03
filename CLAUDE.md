@@ -40,7 +40,13 @@ imagetracker/
 2. `articles/{slug}.json` 생성
 3. `python3 scrape.py {slug}` 실행 (Bash)
 4. `git add references/ articles/ && git commit -m "Add {slug}" && git push` (Bash)
-5. 완료 후 URL 반환: `https://imagetracker-sunwoo6.vercel.app/ref/{slug}`
+5. **★배포 — 푸시만으로는 배포 안 된다**: `vercel --prod --yes`
+   - GitHub 연동이 끊겨 있다(레포가 OddMount → tuneupyourbalance-lab으로 이전되며 훅이 끊김, 2026-09-03 확인). 푸시한 커밋은 리다이렉트로 잘 들어가지만 **배포 트리거는 안 걸린다.**
+   - 빼먹으면 새 slug가 **404**. 예전에 배포된 slug만 살아있어서 "다른 페이지는 되는데 이것만 안 되는" 형태로 나타난다.
+   - 자동배포를 되살리려면 Vercel 대시보드에서 새 레포로 연동을 다시 걸어야 하는데, **유저가 직접 판단할 일이니 임의로 붙이지 말 것.**
+6. **배포 확인까지 하고 끝낸다**: `curl -s -o /dev/null -w "%{http_code}" https://imagetracker-nine.vercel.app/ref/{slug}` → **200 확인.** 이미지도 1장 찍어본다(`/ref/images/{slug}/{dir}/{file}`).
+   - 이미지는 GitHub raw로 서빙돼서 푸시만으로 반영된다. 배포가 필요한 건 HTML뿐.
+7. 완료 후 URL 반환: `https://imagetracker-nine.vercel.app/ref/{slug}`
 
 **slug 규칙:** 영문 소문자+하이픈, 아티클 주제 한두 단어
 예) 레인코트 → `raincoat`, 여름 맥주 → `beer-summer`, 핀란드 사우나 → `sauna`

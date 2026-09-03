@@ -1041,8 +1041,10 @@ def main():
     build_html(config, all_saved, slug)
 
     print(f"""
-배포:
+배포 (push만으로는 배포 안 됨 — GitHub 연동 끊김):
   git add references/ articles/ && git commit -m "Add {slug} images" && git push
+  vercel --prod --yes
+확인: curl -s -o /dev/null -w "%{{http_code}}" https://imagetracker-nine.vercel.app/ref/{slug}   → 200
 
 URL: https://imagetracker-nine.vercel.app/ref/{slug}
 """)
