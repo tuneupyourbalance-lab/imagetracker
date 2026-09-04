@@ -8,16 +8,22 @@
       "type": [
         "instagram",
         "naver_place",
+        "manual",
         "google_images",
         "diningcode"
       ],
       "account": "heytea.kr",
       "keywords": "클라우드 치즈폼 말차 피스타치오 자스민 밀크티 모찌",
-      "naver_query": "헤이티 명동",
+      "naver_query": "헤이티 홍대",
       "query": "헤이티 클라우드 말차 라테 피스타치오 클라우드 자스민 치즈폼 음료",
       "addr": "서울 중구 명동 (명동점 3개 층) · 홍대 · 신사 가로수길",
       "color": "#1f4d3d",
-      "diningcode_query": "헤이티 명동"
+      "diningcode_query": "헤이티 명동",
+      "urls": [
+        "https://www-cos-cdn.heytea.com/images/2026/08/e5ab5668-95c2-403e-8971-147d3343e6c9.webp",
+        "https://www-cos-cdn.heytea.com/images/2026/08/a8ff523c-4207-45f6-8b6a-c594e52c8719.webp",
+        "https://www-cos-cdn.heytea.com/images/2026/08/0bab4bd3-8f4e-4836-b09f-891f30ccab5f.webp"
+      ]
     },
     {
       "name": "차지 (CHAGEE) — 찻잎 향미 집중",
@@ -25,16 +31,23 @@
       "type": [
         "instagram",
         "naver_place",
+        "manual",
         "google_images",
         "diningcode"
       ],
       "account": "chagee.kr",
       "keywords": "다홍포 보야 자스민 밀크티 우롱 찻잎 저당",
-      "naver_query": "차지 강남",
+      "naver_query": "차지 신촌",
       "query": "차지 CHAGEE 다홍포 밀크티 보야 자스민 밀크티 음료",
       "addr": "서울 서초구 강남대로 407 (강남 플래그십) · 용산 · 신촌 · 역삼 · 시청 · 종로 · 건대",
       "color": "#8b1a2b",
-      "diningcode_query": "차지 강남"
+      "diningcode_query": "차지 강남",
+      "urls": [
+        "https://prod-chagee-official-vietnam.chagee.com/web/kr/uploads/20260414/c518f463-b500-4a4a-a3d6-a56eac4bac10.jpg",
+        "https://prod-chagee-official-vietnam.chagee.com/web/kr/uploads/20260414/1274e371-f6fa-47bb-961a-faacc333fad0.jpg",
+        "https://prod-chagee-official-vietnam.chagee.com/web/kr/uploads/20260414/8b5d2f50-2ec7-44ca-a6e2-8aa5de67c261.jpg",
+        "https://prod-chagee-official-vietnam.chagee.com/web/kr/uploads/20260415/9003ba03-d52e-45f5-90a6-5fd731bdf8b7.jpg"
+      ]
     },
     {
       "name": "차백도 (ChaPanda) — 타로볼·우유푸딩",
@@ -42,6 +55,7 @@
       "type": [
         "instagram",
         "naver_place",
+        "manual",
         "google_images",
         "diningcode"
       ],
@@ -51,7 +65,13 @@
       "query": "차백도 우롱 소이빈 밀크티 치즈폼 콩가루 타로볼 우유푸딩",
       "addr": "서울 강남구 (강남한티 플래그십) · 홍대 · 건대 · 명동 · 잠실 등",
       "color": "#2f6b3f",
-      "diningcode_query": "차백도 강남한티"
+      "diningcode_query": "차백도 강남한티",
+      "urls": [
+        "https://chapanda-global-web-prod.oss-ap-southeast-1.aliyuncs.com/web/640058649179328512/upload/20251105/641026238491660289.jpg",
+        "https://chapanda-global-web-prod.oss-ap-southeast-1.aliyuncs.com/web/640058649179328512/upload/20251105/641157481216610305.jpg",
+        "https://chapanda-global-web-prod.oss-ap-southeast-1.aliyuncs.com/web/640058649179328512/upload/20251105/641026238567157760.jpg",
+        "https://chapanda-global-web-prod.oss-ap-southeast-1.aliyuncs.com/web/639092041896169472/upload/20251103/640551498454929408.jpg"
+      ]
     },
     {
       "name": "더정 우롱티프로젝트 — 우롱차 전문",
