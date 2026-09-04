@@ -368,7 +368,7 @@ def scrape_naver(spot, slug):
             if "ldb-phinf" in src and src not in business_urls:
                 business_urls.append(src)
 
-    tab_suffixes = ["photo/business", "photo/menu"]
+    tab_suffixes = ["photo/menu", "photo/business"]
     place_types  = ["restaurant", "cafe", "place"]
 
     with sync_playwright() as p:
@@ -1044,9 +1044,9 @@ def main():
 배포 (push만으로는 배포 안 됨 — GitHub 연동 끊김):
   git add references/ articles/ && git commit -m "Add {slug} images" && git push
   vercel --prod --yes
-확인: curl -s -o /dev/null -w "%{{http_code}}" https://imagetracker-nine.vercel.app/ref/{slug}   → 200
+확인: curl -s -o /dev/null -w "%{{http_code}}" https://imagetracker-sunwoo6.vercel.app/ref/{slug}   → 200
 
-URL: https://imagetracker-nine.vercel.app/ref/{slug}
+URL: https://imagetracker-sunwoo6.vercel.app/ref/{slug}
 """)
 
 
