@@ -1,0 +1,95 @@
+{
+  "slug": "gwangjin-food",
+  "title": "광진구가 심상찮다, 조용해서 더 사랑스러운 공간들 (하퍼스바자 최노아)",
+  "spots": [
+    {
+      "name": "카페 라벤다 — 1980년대 도쿄 킷사텐",
+      "dir": "lavender",
+      "type": ["instagram", "naver_place"],
+      "account": "lavender_seoul",
+      "naver_query": "카페 라벤다 중곡동",
+      "addr": "서울 광진구 중곡동 33-1 1층",
+      "color": "#4b2e6b",
+      "keywords": "킷사텐 나폴리탄 스파게티 모닝플레이트 멜론소다 레트로"
+    },
+    {
+      "name": "올리카 — 정성으로 만드는 브런치",
+      "dir": "olika",
+      "type": ["instagram", "naver_place"],
+      "account": "table.olika",
+      "naver_query": "올리카 군자",
+      "addr": "서울 광진구 천호대로109길 53 1층",
+      "color": "#3f6b4a",
+      "keywords": "브런치 잠봉뵈르 샌드위치 풀드포크 와인바 그래놀라"
+    },
+    {
+      "name": "포르코 디 마레 — 동네 안 작은 유럽 델리",
+      "dir": "porco_di_mare",
+      "type": ["instagram", "naver_place"],
+      "account": "porco_di_mare",
+      "naver_query": "포르코디마레 군자",
+      "addr": "서울 광진구 능동로32길 53 1층 상가 101호",
+      "color": "#8b5a2b",
+      "keywords": "살루메리아 샤퀴테리 살라미 프로슈토 치즈 모르타델라 샌드위치"
+    },
+    {
+      "name": "은근한 방앗간 — 자꾸만 찾고 싶은 동네 카페",
+      "dir": "eungeun",
+      "type": ["instagram", "naver_place"],
+      "account": "eungeun_roastery",
+      "naver_query": "은근한방앗간 아차산",
+      "addr": "서울 광진구 구의동 50-16",
+      "color": "#c78a3a",
+      "keywords": "샌드위치 당근라페 잠봉 카프레제 치즈케이크"
+    },
+    {
+      "name": "데케드 파크 — 서촌 데케드의 두 번째 공간",
+      "dir": "dekad_park",
+      "type": ["instagram", "naver_place"],
+      "account": "dekad.kafeteria",
+      "naver_query": "데케드파크 구의동",
+      "addr": "서울 광진구 자양로37길 55",
+      "color": "#b23a2f",
+      "keywords": "모닝번플레이트 하바티치즈 모르타델라 반숙란 오픈키친"
+    },
+    {
+      "name": "아차산 할아버지 손두부",
+      "dir": "achasan_dubu",
+      "type": ["naver_place"],
+      "naver_query": "할아버지손두부 아차산",
+      "addr": "서울 광진구 자양로 324",
+      "color": "#e0d3a3",
+      "keywords": "순두부 모두부 막걸리 두부"
+    },
+    {
+      "name": "멕시칼리 — 진정한 멕시칸",
+      "dir": "mexicali",
+      "type": ["instagram", "naver_place"],
+      "account": "mexicali.official",
+      "naver_query": "멕시칼리 능동",
+      "addr": "서울 광진구 천호대로 634",
+      "color": "#d1592e",
+      "keywords": "피쉬타코 과카몰리 케사디야 나초"
+    },
+    {
+      "name": "곰곰탕 — 푹 고아 낸 돼지 곰탕",
+      "dir": "gomgomtang",
+      "type": ["instagram", "naver_place"],
+      "account": "gomgom430",
+      "naver_query": "곰곰탕 중곡동",
+      "addr": "서울 광진구 용마산로 128 1층",
+      "color": "#7a7266",
+      "keywords": "돼지곰탕 제육무침 토렴 깍두기"
+    },
+    {
+      "name": "이화만두 — 줄 서도 못 사는 만두",
+      "dir": "ewha_mandu",
+      "type": ["instagram", "naver_place"],
+      "account": "ewhamandu",
+      "naver_query": "이화만두 군자",
+      "addr": "서울 광진구 능동로 278-1",
+      "color": "#2f5d8a",
+      "keywords": "만두 오픈런 왕만두"
+    }
+  ]
+}
