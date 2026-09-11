@@ -1,0 +1,89 @@
+{
+  "slug": "hyrox",
+  "title": "가장 핫한 운동, 하이록스 대비 가이드 (하퍼스바자 최노아)",
+  "spots": [
+    {
+      "name": "하이록스 (HYROX) 서울",
+      "dir": "hyrox_brand",
+      "type": ["instagram"],
+      "account": "hyroxkor",
+      "keywords": "하이록스 대회 레이스 경기 스테이션 썰매",
+      "color": "#111111"
+    },
+    {
+      "name": "PUMA x HYROX 디바이에이트 나이트로 엘리트 4",
+      "dir": "puma_hyrox",
+      "type": ["manual", "google_images"],
+      "urls": [
+        "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1200,h_1200/global/312959/01/sv01/fnd/PNA/fmt/png/PUMA-x-HYROX-Deviate-NITRO%E2%84%A2-Elite-4-Men's-Training-Shoes",
+        "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1200,h_1200/global/312959/01/sv02/fnd/PNA/fmt/png/PUMA-x-HYROX-Deviate-NITRO%E2%84%A2-Elite-4-Men's-Training-Shoes",
+        "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1200,h_1200/global/312959/01/sv03/fnd/PNA/fmt/png/PUMA-x-HYROX-Deviate-NITRO%E2%84%A2-Elite-4-Men's-Training-Shoes",
+        "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1200,h_1200/global/312959/01/sv04/fnd/PNA/fmt/png/PUMA-x-HYROX-Deviate-NITRO%E2%84%A2-Elite-4-Men's-Training-Shoes",
+        "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1200,h_1200/global/312959/01/dt01/fnd/PNA/fmt/png/PUMA-x-HYROX-Deviate-NITRO%E2%84%A2-Elite-4-Men's-Training-Shoes",
+        "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1200,h_1200/global/312959/01/dt05/fnd/PNA/fmt/png/PUMA-x-HYROX-Deviate-NITRO%E2%84%A2-Elite-4-Men's-Training-Shoes"
+      ],
+      "query": "PUMA Deviate Nitro Elite 4 HYROX shoe",
+      "color": "#d6001c"
+    },
+    {
+      "name": "나이키 하이브리드 플라이 / RN",
+      "dir": "nike_hybrid",
+      "type": ["manual", "google_images"],
+      "urls": [
+        "https://sneakernews.com/wp-content/uploads/2026/08/nike-hybrid-fly-rn-0.jpg",
+        "https://sneakernews.com/wp-content/uploads/2026/08/nike-hybrid-fly-rn-1.jpg",
+        "https://sneakernews.com/wp-content/uploads/2026/08/nike-hybrid-fly-rn-2.jpg",
+        "https://sneakernews.com/wp-content/uploads/2026/08/nike-hybrid-fly-rn-3.jpg",
+        "https://sneakernews.com/wp-content/uploads/2026/08/nike-hybrid-fly-rn-4.jpg",
+        "https://sneakernews.com/wp-content/uploads/2026/08/nike-hybrid-fly-rn-8.jpg"
+      ],
+      "query": "Nike Hybrid RN Fly HYROX shoe",
+      "color": "#111111"
+    },
+    {
+      "name": "아디다스 아디제로 드롭셋 프로",
+      "dir": "adidas_dropset",
+      "type": ["manual", "google_images"],
+      "urls": [
+        "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/06/adidas-adizero-dropset-pro-training-shoes-lead.webp",
+        "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/06/adidas-adizero-dropset-pro-training-shoes-1.webp",
+        "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/06/adidas-adizero-dropset-pro-training-shoes-2.webp",
+        "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/06/adidas-adizero-dropset-pro-training-shoes-3.webp",
+        "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/06/adidas-adizero-dropset-pro-training-shoes-4.webp",
+        "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/06/adidas-adizero-dropset-pro-training-shoes-5.webp"
+      ],
+      "query": "adidas Adizero Dropset Pro training shoe",
+      "color": "#111111"
+    },
+    {
+      "name": "KEEP (마포)",
+      "dir": "keep_gx",
+      "type": ["instagram", "naver_place"],
+      "account": "keep.gx",
+      "naver_query": "KEEP 마포",
+      "addr": "서울 마포구 월드컵로 93 4층",
+      "keywords": "그룹운동 하이록스 대비반",
+      "color": "#2f5d3a"
+    },
+    {
+      "name": "스웻먼데이 성수",
+      "dir": "sweatmonday",
+      "type": ["instagram", "naver_place"],
+      "account": "sweat.monday",
+      "naver_query": "스웻먼데이 성수",
+      "addr": "서울 성동구 성수동",
+      "keywords": "슬레드 트랙 하이록스",
+      "color": "#3a3a3a"
+    },
+    {
+      "name": "라우더 청담",
+      "dir": "rauder",
+      "type": ["instagram", "naver_place"],
+      "account": "rauder_kr",
+      "naver_query": "라우더 청담",
+      "addr": "서울 강남구 청담동 진흥상가 지하 73",
+      "keywords": "하이록스 트레이닝 편집숍",
+      "color": "#8a1a1a"
+    }
+  ]
+}
