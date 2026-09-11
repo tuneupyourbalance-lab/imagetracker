@@ -5,10 +5,37 @@
     {
       "name": "하이록스 (HYROX) 서울",
       "dir": "hyrox_brand",
-      "type": ["instagram"],
+      "type": ["instagram", "manual"],
       "account": "hyroxkor",
       "keywords": "하이록스 대회 레이스 경기 스테이션 썰매",
+      "urls": [
+        "https://www.coex.co.kr/wp-content/uploads/2025/08/KR_-Event-Listing-Design-610x510-1.jpg"
+      ],
       "color": "#111111"
+    },
+    {
+      "name": "샤이니 민호 — 남자 릴레이 연령별 1위",
+      "dir": "choi_minho",
+      "type": ["instagram"],
+      "account": "choi_minho_mh",
+      "keywords": "하이록스 운동 오운완 헬스",
+      "color": "#3a3a5a"
+    },
+    {
+      "name": "아모띠(김재홍) — <피지컬:100> 시즌2 우승자",
+      "dir": "amotti",
+      "type": ["instagram"],
+      "account": "amottivation",
+      "keywords": "하이록스 운동 크로스핏",
+      "color": "#5a3a3a"
+    },
+    {
+      "name": "홍범석 — 하이록스 앰버서더, <피지컬:100> 시즌2 준우승자",
+      "dir": "hong_beomseok",
+      "type": ["instagram"],
+      "account": "hongbeomseok_",
+      "keywords": "하이록스 푸마 운동 트레이닝",
+      "color": "#3a5a3a"
     },
     {
       "name": "PUMA x HYROX 디바이에이트 나이트로 엘리트 4",
