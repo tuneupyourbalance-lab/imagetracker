@@ -856,6 +856,7 @@ def card_manual(item, spot, slug):
     dir_name = spot["dir"]
     fname    = Path(item["path"]).name
     web_path = f"/ref/images/{slug}/{dir_name}/{fname}"
+    credit   = spot.get("credit", "업체 제공")
     return f"""<div class="card manual-card">
   <div class="img-wrap">
     <img src="{web_path}" loading="lazy" onerror="this.closest('.card').style.display='none'">
@@ -863,7 +864,7 @@ def card_manual(item, spot, slug):
     <a class="dl-btn" href="{_dl_url(web_path, f'{dir_name}_{fname}')}">⬇ 저장</a>
   </div>
   <div class="meta">
-    <p class="attr">사진/ 업체 제공</p>
+    <p class="attr">사진/ {credit}</p>
     <a class="src" href="{item['src_url']}" target="_blank">출처 확인 →</a>
   </div>
 </div>"""

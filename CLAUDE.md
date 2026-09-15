@@ -114,6 +114,7 @@ imagetracker/
 - `type: instagram` → account 필수, keywords 선택 (관련 사진 우선 정렬)
 - `type: naver_place` → naver_query 필수
 - `type: manual` → urls 배열 (비어있으면 스킵, 나중에 추가 가능)
+  - manual 카드엔 기본으로 "사진/ 업체 제공" 라벨이 붙는데, 이건 맛집·업체 기사 기준 문구라 영화/제품처럼 "업체"가 아닌 주체(배급사·영화제·브랜드 본사 등)가 제공한 경우엔 부정확함. 이런 경우 spot에 `"credit": "넷플릭스·베니스국제영화제 제공"` 처럼 실제 출처를 직접 명시할 것 (2026-09-15 possible-love 아티클에서 처음 도입, 사용자가 "이게 넷플릭스야?"라고 라벨 부정확함을 지적해서 고침).
 - 한 업체가 인스타+네이버 둘 다 필요하면 type을 `["instagram", "naver_place"]`로 배열로
 
 ---
