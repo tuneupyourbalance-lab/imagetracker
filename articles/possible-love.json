@@ -1,0 +1,25 @@
+{
+  "slug": "possible-love",
+  "title": "가능한 사랑, 가능한 한국 영화 (하퍼스바자 최노아)",
+  "spots": [
+    {
+      "name": "가능한 사랑 (이창동 감독, 넷플릭스)",
+      "dir": "possible_love",
+      "type": ["manual", "google_images"],
+      "urls": [
+        "https://t1.daumcdn.net/news/202607/28/spotvnews/20260728082129014qtct.jpg",
+        "https://img.hankyung.com/photo/202609/01.45444427.1.jpg",
+        "https://wimg.heraldcorp.com/news/cms/2026/08/25/news-p.v1.20260825.239a696c3a2246d298a51c7603030c56_P1.jpg",
+        "https://image.edaily.co.kr/images/photo/files/NP/S/2026/09/PS26091401247.jpg",
+        "https://image.edaily.co.kr/images/photo/files/NP/S/2026/09/PS26091401248.jpg",
+        "https://wimg.heraldcorp.com/news/cms/2026/09/04/news-p.v1.20260904.e6dc766ab95846fbb5ab3d2edad0316c_P1.png",
+        "https://wimg.heraldcorp.com/news/cms/2026/09/04/news-p.v1.20260904.14a887643eb549d38283e475ceb09340_P1.png",
+        "https://wimg.heraldcorp.com/news/cms/2026/09/04/news-p.v1.20260904.55ab2b15640c4a478621d3abe0f7333e_P1.png",
+        "https://wimg.heraldcorp.com/news/cms/2026/09/04/news-p.v1.20260904.ce9d2e726a5b4473b8e22f63ac2786bf_P1.png",
+        "https://wimg.heraldcorp.com/news/cms/2026/09/04/news-p.v1.20260904.775164dc969a44c8b446cb28a5c2c274_P1.png"
+      ],
+      "query": "가능한 사랑 이창동 넷플릭스 영화 스틸",
+      "color": "#1a1a1a"
+    }
+  ]
+}
