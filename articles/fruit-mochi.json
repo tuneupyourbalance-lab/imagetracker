@@ -1,0 +1,71 @@
+{
+  "slug": "fruit-mochi",
+  "title": "가을엔 쫀득 쫀득 과일 모찌 — 과일 모찌 맛집 5",
+  "spots": [
+    {
+      "name": "진저베어",
+      "dir": "ginger_bear_pie",
+      "type": [
+        "instagram",
+        "naver_place"
+      ],
+      "account": "ginger.bear_pie",
+      "naver_query": "송파 진저베어",
+      "addr": "서울 송파구 백제고분로41길 43-7",
+      "color": "#c9762a",
+      "keywords": "모찌 통망고 망고 고구마 통고구마 찹쌀 찹쌀떡 떡 크림 카스테라 디플로마트 신메뉴"
+    },
+    {
+      "name": "앙꼬",
+      "dir": "cafe_ankko",
+      "type": [
+        "instagram",
+        "naver_place"
+      ],
+      "account": "cafe_ankko",
+      "naver_query": "강남구청역 앙꼬",
+      "addr": "서울 강남구 학동로56길 32",
+      "color": "#8c5a3c",
+      "keywords": "모찌 찹쌀떡 다이후쿠 딸기 앙금 팥 화과자 당고 만주 양갱 밤 세트"
+    },
+    {
+      "name": "부케 드 뺑",
+      "dir": "bouquet_de_pain",
+      "type": [
+        "instagram",
+        "naver_place"
+      ],
+      "account": "bouquet.de.pain",
+      "naver_query": "도산공원 부케드뺑",
+      "addr": "서울 강남구 도산대로49길 18",
+      "color": "#b8474d",
+      "keywords": "모찌 대왕모찌 상하이 통모찌 빙수 크림 과일 찹쌀 딸기 망고 청포도"
+    },
+    {
+      "name": "한정선",
+      "dir": "han_jung_sun",
+      "type": [
+        "instagram",
+        "naver_place"
+      ],
+      "account": "han.jung.sun",
+      "naver_query": "한정선 성수",
+      "addr": "서울 성동구 연무장길 43 1층",
+      "color": "#a33a4f",
+      "keywords": "찹쌀떡 모찌 과일 홍시 무화과 통귤 귤 딸기 포도 샤인머스캣 단면 생과일 제철"
+    },
+    {
+      "name": "하우모찌",
+      "dir": "howmochi_cafe",
+      "type": [
+        "instagram",
+        "naver_place"
+      ],
+      "account": "howmochi.cafe",
+      "naver_query": "송리단길 하우모찌",
+      "addr": "서울 송파구 오금로18길 12 지하 1층",
+      "color": "#5b6e4e",
+      "keywords": "모찌 아이스모찌 딸기 크랜베리 초코 생초코 말차 바닐라 약과 연유 떡피 찹쌀"
+    }
+  ]
+}
