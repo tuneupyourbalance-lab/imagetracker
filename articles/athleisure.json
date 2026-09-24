@@ -1,0 +1,95 @@
+{
+  "slug": "athleisure",
+  "title": "레깅스의 시대는 가라, 2세대의 도래 — 애슬레저 브랜드 7",
+  "spots": [
+    {
+      "name": "알로 요가",
+      "dir": "aloyoga",
+      "type": [
+        "instagram",
+        "google_images"
+      ],
+      "account": "aloyoga",
+      "query": "Kendall Jenner Alo Yoga street style paparazzi",
+      "max": 14,
+      "color": "#1c1c1c",
+      "keywords": "set matching legging outfit street style yoga onyx"
+    },
+    {
+      "name": "뷰오리",
+      "dir": "vuori",
+      "type": [
+        "instagram",
+        "google_images"
+      ],
+      "account": "vuoriclothing",
+      "query": "Vuori clothing celebrity street style outfit",
+      "max": 14,
+      "color": "#2f4f4f",
+      "keywords": "dreamknit lounge commute travel jogger outdoor performance"
+    },
+    {
+      "name": "아웃도어 보이스",
+      "dir": "outdoor_voices",
+      "type": [
+        "instagram",
+        "google_images"
+      ],
+      "account": "outdoorvoices",
+      "query": "Outdoor Voices doing things outfit street style",
+      "max": 14,
+      "color": "#c2410c",
+      "keywords": "doing things exercise dress hike fleece anorak jacket"
+    },
+    {
+      "name": "아모멘토 플러스",
+      "dir": "amomento_plus",
+      "type": [
+        "instagram",
+        "google_images"
+      ],
+      "account": "amomento.co",
+      "query": "아모멘토 플러스 AMOMENTO 액티브웨어",
+      "max": 12,
+      "color": "#8a8578",
+      "keywords": "액티브 액티브웨어 플러스 plus 러닝 트레이닝 스포티 레깅스 탑 세트 무브먼트 움직임"
+    },
+    {
+      "name": "소사",
+      "dir": "sosa",
+      "type": [
+        "instagram"
+      ],
+      "account": "sosa.ofcl",
+      "max": 12,
+      "color": "#6b705c",
+      "keywords": "밴드리스 band-free 탑 세트 액티브 미니멀 seekers 러닝"
+    },
+    {
+      "name": "CSB (크롭 숍 부티크)",
+      "dir": "csb",
+      "type": [
+        "instagram",
+        "google_images"
+      ],
+      "account": "csb",
+      "query": "Hailey Bieber Crop Shop Boutique CSB crop top",
+      "max": 14,
+      "color": "#a8837a",
+      "keywords": "seamless crop set legging sculpt tank bra"
+    },
+    {
+      "name": "P.E Nation",
+      "dir": "pe_nation",
+      "type": [
+        "instagram",
+        "google_images"
+      ],
+      "account": "p.e.nation",
+      "query": "P.E Nation activewear street style celebrity",
+      "max": 14,
+      "color": "#1d4ed8",
+      "keywords": "merino wool woolmark set legging crop jacket print"
+    }
+  ]
+}
