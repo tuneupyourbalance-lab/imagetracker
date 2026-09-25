@@ -1,0 +1,138 @@
+{
+  "slug": "mountain-fall",
+  "title": "올가을, 산에서 만나요 — 아웃도어 페스티벌 12",
+  "spots": [
+    {
+      "name": "KOLON TRAIL CAMP 동서트레일",
+      "dir": "kolon_trail_camp",
+      "type": [
+        "instagram",
+        "google_images"
+      ],
+      "account": "_kolonsport",
+      "query": "코오롱스포츠 동서트레일 트레일캠프 백패킹",
+      "max": 14,
+      "color": "#2f5d3a",
+      "keywords": "트레일캠프 동서트레일 백패킹 하이킹 봉화 캠프 트레일"
+    },
+    {
+      "name": "MONTBELL OUTDOOR TRAIL",
+      "dir": "montbell_mot",
+      "type": [
+        "instagram",
+        "google_images"
+      ],
+      "account": "montbell_kr",
+      "query": "몽벨 MOT 아웃도어 트레일 백패킹 한티가는길",
+      "max": 14,
+      "color": "#1f4e79",
+      "keywords": "MOT 아웃도어트레일 백패킹 트레킹 숙영 light fast 캠프"
+    },
+    {
+      "name": "OTT ORIGINAL",
+      "dir": "ott_original",
+      "type": [
+        "instagram",
+        "google_images"
+      ],
+      "account": "ott_onthetrail",
+      "query": "OTT ORIGINAL 온더트레일 영남알프스 장거리 하이킹",
+      "max": 14,
+      "color": "#6b4423",
+      "keywords": "ORIGINAL 영남알프스 양산 하이킹 트레일 체크포인트 53km"
+    },
+    {
+      "name": "BEAR TRAIL CAMP",
+      "dir": "bear_trail_camp",
+      "type": [
+        "instagram",
+        "google_images"
+      ],
+      "account": "bear_trail_camp",
+      "query": "베어트레일캠프 BTC 안동 백패킹 트레일",
+      "max": 14,
+      "color": "#8b4513",
+      "keywords": "BTC 안동 트레일 백패킹 캠프 리버스 rebirth road"
+    },
+    {
+      "name": "GO OUT CAMP 22nd IN BUYEO",
+      "dir": "goout_camp",
+      "type": [
+        "google_images"
+      ],
+      "query": "고아웃캠프 GO OUT CAMP 부여 캠핑 페스티벌",
+      "max": 14,
+      "color": "#c2410c"
+    },
+    {
+      "name": "서울 바비큐 페스티벌",
+      "dir": "seoul_bbq",
+      "type": [
+        "google_images"
+      ],
+      "query": "서울 바비큐 페스티벌 난지캠핑장",
+      "max": 14,
+      "color": "#a33a1f"
+    },
+    {
+      "name": "남한산성 가을 페스타",
+      "dir": "namhansanseong",
+      "type": [
+        "google_images"
+      ],
+      "query": "남한산성 가을페스타 숲속의 산성도시 행사 포스터",
+      "max": 12,
+      "color": "#4a5d23"
+    },
+    {
+      "name": "한강수계 걷기행사",
+      "dir": "hangang_walk",
+      "type": [
+        "google_images"
+      ],
+      "query": "한강수계 걷기행사 포천 한탄강 춘천 하중도",
+      "max": 12,
+      "color": "#1d6fa5"
+    },
+    {
+      "name": "DMZ 평화의 길",
+      "dir": "dmz_peace",
+      "type": [
+        "google_images"
+      ],
+      "query": "DMZ 평화의 길 걷기 테마노선 접경지역",
+      "max": 12,
+      "color": "#3f6212"
+    },
+    {
+      "name": "갯섬",
+      "dir": "gaetseom",
+      "type": [
+        "google_images"
+      ],
+      "query": "강화 갯섬 백패킹 페스티벌 해명산 민머루해변",
+      "max": 12,
+      "color": "#0e7490"
+    },
+    {
+      "name": "BASED IN NATURE GANGJIN",
+      "dir": "based_in_nature",
+      "type": [
+        "google_images"
+      ],
+      "query": "베이스드인네이처 BASED IN NATURE 강진 하이킹 백패킹",
+      "max": 12,
+      "color": "#5b6e4e"
+    },
+    {
+      "name": "태평성대 아웃도어 페스티벌",
+      "dir": "taepyeong",
+      "type": [
+        "google_images"
+      ],
+      "query": "태평성대 아웃도어 페스티벌 in 문경 가은 참가자 트레킹 캠핑",
+      "max": 12,
+      "color": "#b45309"
+    }
+  ]
+}
