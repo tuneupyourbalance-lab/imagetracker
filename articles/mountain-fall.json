@@ -58,11 +58,14 @@
       "name": "GO OUT CAMP 22nd IN BUYEO",
       "dir": "goout_camp",
       "type": [
+        "instagram",
         "google_images"
       ],
       "query": "고아웃캠프 GO OUT CAMP 부여 캠핑 페스티벌",
       "max": 14,
-      "color": "#c2410c"
+      "color": "#c2410c",
+      "account": "gooutkorea",
+      "keywords": "고아웃캠프 부여 캠핑 페스티벌 캠프 라인업"
     },
     {
       "name": "서울 바비큐 페스티벌",
@@ -128,11 +131,14 @@
       "name": "태평성대 아웃도어 페스티벌",
       "dir": "taepyeong",
       "type": [
+        "instagram",
         "google_images"
       ],
       "query": "태평성대 아웃도어 페스티벌 in 문경 가은 참가자 트레킹 캠핑",
       "max": 12,
-      "color": "#b45309"
+      "color": "#b45309",
+      "account": "tpsdof.kr",
+      "keywords": "태평성대 문경 가은 트레킹 캠핑 운동회 불멍"
     }
   ]
 }
