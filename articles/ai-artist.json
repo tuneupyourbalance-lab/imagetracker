@@ -1,0 +1,132 @@
+{
+  "slug": "ai-artist",
+  "title": "AI는 예술가가 될 수 있을까 — 작품·작가·전시",
+  "spots": [
+    {
+      "name": "〈에드몽 드 벨라미〉 (Obvious, 2018)",
+      "dir": "edmond_belamy",
+      "type": [
+        "google_images"
+      ],
+      "max": 12,
+      "query": "Edmond de Belamy Obvious collective Christie's AI portrait 2018",
+      "color": "#5b4636"
+    },
+    {
+      "name": "〈Théâtre D'opéra Spatial〉 (Jason Allen, 2022)",
+      "dir": "theatre_opera",
+      "type": [
+        "google_images"
+      ],
+      "max": 12,
+      "query": "Theatre D'opera Spatial Jason Allen Midjourney Colorado State Fair winner",
+      "color": "#7a5230"
+    },
+    {
+      "name": "크리스티 《Augmented Intelligence》 경매",
+      "dir": "augmented_intelligence",
+      "type": [
+        "google_images"
+      ],
+      "max": 12,
+      "query": "Christie's Augmented Intelligence AI art auction sale lots",
+      "color": "#8c1c13"
+    },
+    {
+      "name": "해롤드 코헨 & AARON",
+      "dir": "harold_cohen",
+      "type": [
+        "google_images"
+      ],
+      "max": 12,
+      "query": "Harold Cohen AARON drawing machine Whitney Museum 2024 exhibition",
+      "color": "#3d5a6c"
+    },
+    {
+      "name": "찰스 쿠시리",
+      "dir": "charles_csuri",
+      "type": [
+        "google_images"
+      ],
+      "max": 12,
+      "query": "Charles Csuri computer art pioneer Sine Curve Man artwork",
+      "color": "#4a5d3a"
+    },
+    {
+      "name": "린 허쉬만 리슨 (작가)",
+      "dir": "lynn_hershman",
+      "type": [
+        "google_images"
+      ],
+      "max": 14,
+      "query": "Lynn Hershman Leeson artist portrait media art pioneer",
+      "color": "#2f2f3a"
+    },
+    {
+      "name": "〈로베르타 브라이트모어〉 (1973–78)",
+      "dir": "roberta_breitmore",
+      "type": [
+        "google_images"
+      ],
+      "max": 12,
+      "query": "Roberta Breitmore Lynn Hershman Leeson 1973 persona artwork",
+      "color": "#6b4a5a"
+    },
+    {
+      "name": "〈에이전트 루비〉 (1998, SFMOMA)",
+      "dir": "agent_ruby",
+      "type": [
+        "google_images"
+      ],
+      "max": 12,
+      "query": "Agent Ruby Lynn Hershman Leeson SFMOMA web agent artwork",
+      "color": "#8a3d52"
+    },
+    {
+      "name": "《린 허쉬만 리슨》 서울시립미술관",
+      "dir": "sema_lynn",
+      "type": [
+        "instagram",
+        "google_images"
+      ],
+      "account": "seoulmuseumofart",
+      "max": 14,
+      "query": "Lynn Hershman Leeson 서울시립미술관 SeMA 개인전 전시전경",
+      "keywords": "린 허쉬만 리슨 전시 서소문 기술 창작 포스터 개인전",
+      "color": "#1f3a5f"
+    },
+    {
+      "name": "ACT 페스티벌 2026 《아이·휴먼》",
+      "dir": "act_festival",
+      "type": [
+        "instagram",
+        "google_images"
+      ],
+      "account": "asiaculturecenter",
+      "max": 14,
+      "query": "ACT FESTIVAL 국립아시아문화전당 ACC 미디어아트 전시 포스터",
+      "keywords": "ACT 페스티벌 아이휴먼 인간 로보틱스 확장현실 포스터 전시",
+      "color": "#2d6a4f"
+    },
+    {
+      "name": "〈SEOUL RAIM: ROBOT CITY〉",
+      "dir": "seoul_raim",
+      "type": [
+        "google_images"
+      ],
+      "max": 12,
+      "query": "서울로봇인공지능과학관 미디어파사드 ROBOT CITY 전시",
+      "color": "#3b3f8f"
+    },
+    {
+      "name": "스마트라이프위크 2026 (코엑스)",
+      "dir": "smart_life_week",
+      "type": [
+        "google_images"
+      ],
+      "max": 12,
+      "query": "스마트라이프위크 SMART LIFE WEEK 서울 코엑스 전시",
+      "color": "#b45309"
+    }
+  ]
+}
