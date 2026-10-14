@@ -1,0 +1,81 @@
+{
+  "slug": "hotpot-solo",
+  "title": "훠궈 이제 혼자서도 먹어요 — 하이디라오 하이파이브와 서울 혼훠궈 4곳",
+  "spots": [
+    {
+      "name": "훠궈 하이파이브 (현대백화점 판교점)",
+      "dir": "hifive",
+      "type": [
+        "instagram",
+        "naver_place"
+      ],
+      "account": "hifive_korea",
+      "naver_query": "훠궈 하이파이브",
+      "addr": "경기 성남시 분당구 판교역로146번길 20 현대백화점 판교점",
+      "color": "#c0392b",
+      "keywords": "하이파이브 1인 훠궈 마라탕 세트 소스바 판교 오픈 혼밥"
+    },
+    {
+      "name": "하이디라오 (브랜드·서비스)",
+      "dir": "haidilao",
+      "type": [
+        "google_images"
+      ],
+      "max": 14,
+      "query": "하이디라오 수타면 춤 네일케어 대기석 서비스 매장",
+      "color": "#8c1c13"
+    },
+    {
+      "name": "패왕훠궈 강남점",
+      "dir": "paewang",
+      "type": [
+        "naver_place",
+        "google_images"
+      ],
+      "max": 12,
+      "naver_query": "강남역 패왕훠궈",
+      "query": "패왕훠궈 회전훠궈 강남 무한리필",
+      "addr": "서울 서초구 강남대로65길 7, 5~6층",
+      "color": "#a63d1f"
+    },
+    {
+      "name": "용가회전훠궈 (명동·건대)",
+      "dir": "yongga",
+      "type": [
+        "naver_place",
+        "google_images"
+      ],
+      "naver_query": "용가회전훠궈 명동점",
+      "addr": "서울 중구 명동 59-25 (명동점)",
+      "color": "#b8860b",
+      "query": "용가회전훠궈 명동 건대 1인 회전훠궈 매장",
+      "max": 12
+    },
+    {
+      "name": "호랑회전훠궈 신촌",
+      "dir": "horang",
+      "type": [
+        "naver_place",
+        "google_images"
+      ],
+      "max": 12,
+      "naver_query": "신촌 호랑회전훠궈",
+      "query": "호랑회전훠궈 신촌 연세로 회전훠궈 1인",
+      "addr": "서울 서대문구 연세로 37, 2층",
+      "color": "#5b6e4e"
+    },
+    {
+      "name": "기린1인용회전훠궈 홍대",
+      "dir": "kirin",
+      "type": [
+        "naver_place",
+        "google_images"
+      ],
+      "max": 12,
+      "naver_query": "홍대 기린1인용회전훠궈",
+      "query": "기린 1인용 회전훠궈 홍대 개인화로",
+      "addr": "서울 마포구 홍익로6길 38, 2층",
+      "color": "#3d6e8c"
+    }
+  ]
+}
