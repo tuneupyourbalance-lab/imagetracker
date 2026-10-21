@@ -1,0 +1,305 @@
+{
+ "slug": "classic-now",
+ "title": "왜 하필 지금, 고전인가 — 싯다르타·세네카·오디세이아가 다시 베스트셀러가 된 이유",
+ "spots": [
+  {
+   "name": "『세네카, 오늘을 빼앗기고 있는 당신에게』 — 교보·예스24 종합 1위",
+   "dir": "seneca",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9791199489561.jpg",
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9791122107203.jpg"
+   ],
+   "credit": "교보문고 상품 이미지(센시오·채담 제공)",
+   "color": "#1f2a44",
+   "addr": "하와이 대저택 편역, 센시오. 1 리커버 한정판(20만 부 기념) · 2 이지페이지 큰글자책"
+  },
+  {
+   "name": "『싯다르타』 헤르만 헤세 — 올해 6월 교보 종합 1위",
+   "dir": "siddhartha",
+   "type": "manual",
+   "urls": [
+    "https://minumsa.com/wp-content/uploads/bookcover/058_%EC%8B%AF%ED%83%80%EB%A5%B4%ED%83%80_%ED%91%9C%EC%A7%80.jpg",
+    "https://minumsa.com/wp-content/uploads/bookcover/%EC%8B%AF%EB%8B%A4%EB%A5%B4%ED%83%80_%ED%91%9C1.jpg",
+    "https://minumsa.com/wp-content/uploads/bookcover/EasyPage_%EC%8B%AF%EB%8B%A4%EB%A5%B4%ED%83%80_%ED%91%9C1-1.jpg",
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9788937460586.jpg",
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9788937423352.jpg",
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9788937448843.jpg"
+   ],
+   "credit": "민음사 공식 홈페이지 · 교보문고",
+   "color": "#8a5a2b",
+   "addr": "1~3 민음사 공식(세계문학전집 058 / 현행 표지 / 이지페이지 큰글자책), 4~6 교보(박병덕 역·헤세전집 5권·데미안 합본세트)"
+  },
+  {
+   "name": "『마흔에 읽는 쇼펜하우어』 — 2024 교보 상반기 종합 1위",
+   "dir": "schopenhauer",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9791192300818.jpg"
+   ],
+   "credit": "교보문고 상품 이미지(유노북스 제공)",
+   "color": "#3d3d3d"
+  },
+  {
+   "name": "『모순』 양귀자 — 1998년작, 현재 종합 10위권",
+   "dir": "mosun",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9788998441012.jpg"
+   ],
+   "credit": "교보문고 상품 이미지(쓰다 제공)",
+   "color": "#7a1f2b"
+  },
+  {
+   "name": "『오디세이아』 호메로스 — 영화 개봉 후 교보 30계단 상승",
+   "dir": "odysseia",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9791139721973.jpg",
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9788932476469.jpg",
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9791139721942.jpg"
+   ],
+   "credit": "교보문고 상품 이미지(현대지성·문학동네 제공)",
+   "color": "#0f4c5c",
+   "addr": "1 현대지성판(박문재 역, 개봉 후 8위), 2 『오뒷세이아』 김헌 역(예스24 판매 389.8%↑), 3 일리아스·오디세이아 세트"
+  },
+  {
+   "name": "『트렌드 코리아 2027』 — 10/9~15 교보 주간 종합 1위",
+   "dir": "trend2027",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9791124073483.jpg"
+   ],
+   "credit": "교보문고 상품 이미지(미래의창 제공)",
+   "color": "#b45309",
+   "addr": "리드에서 고전과 대비되는 기준점으로 언급"
+  },
+  {
+   "name": "영화 〈오디세이〉 크리스토퍼 놀런 — 유니버설 공식",
+   "dir": "odyssey-film",
+   "type": [
+    "manual",
+    "google_images"
+   ],
+   "urls": [
+    "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/regions/us/updates3/onesheet.jpg",
+    "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/regions/us/onesheet.jpg",
+    "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/gallery/image1.jpg",
+    "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/gallery/image2.jpg",
+    "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/gallery/image4.jpg",
+    "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/gallery/image5.jpg",
+    "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/gallery/image6.jpg",
+    "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/gallery/image7.jpg",
+    "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/gallery/image_giants.jpg",
+    "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/regions/us/updates3/header.jpg"
+   ],
+   "credit": "유니버설 픽쳐스 제공(공식 사이트 odysseymovie.com)",
+   "color": "#141821",
+   "query": "The Odyssey Christopher Nolan official still Matt Damon",
+   "addr": "맷 데이먼(오디세우스)·톰 홀랜드(텔레마코스)·앤 해서웨이(페넬로페). 전편 IMAX 필름 촬영"
+  },
+  {
+   "name": "영화 〈오만과 편견〉 2005, 조 라이트",
+   "dir": "pride-film",
+   "type": [
+    "manual"
+   ],
+   "urls": [
+    "https://image.tmdb.org/t/p/original/14LuqphUTXaECoFYi4DJbsj5MBL.jpg",
+    "https://image.tmdb.org/t/p/original/dKWumffB9lHJfLTdjDzmOYs1YHU.jpg",
+    "https://image.tmdb.org/t/p/original/1K6BS4bfYFCbJ2Mujo734OeJUqd.jpg",
+    "https://image.tmdb.org/t/p/original/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+    "https://image.tmdb.org/t/p/original/22BPY9iLMd8rLdRQdOr22ujfVVb.jpg",
+    "https://image.tmdb.org/t/p/original/2GCbqABqs9DUBLEOB7TgNYTNYEC.jpg",
+    "https://image.tmdb.org/t/p/original/2qXDpctKQOsdlByoR3hqiASfBJj.jpg",
+    "https://image.tmdb.org/t/p/original/35b8FFIT8hzZEYolsIGCtMm9c1x.jpg",
+    "https://image.tmdb.org/t/p/original/3B4S13oFbNqXGahRqUwy4jBQBF6.jpg",
+    "https://image.tmdb.org/t/p/original/46Lyr9ciQm6QDpx5akOU0ZyXAWk.jpg"
+   ],
+   "credit": "⚠️ 포커스 피처스·워킹 타이틀 스틸(TMDB 수록본) — 사용 전 배급사 허가 필요",
+   "color": "#5b7553",
+   "query": "Pride and Prejudice 2005 Joe Wright Keira Knightley official still",
+   "addr": "추천 리스트 ④ '2005년 조 라이트 감독의 영화를 먼저 보면 인물 관계가 쉽게 들어온다'"
+  },
+  {
+   "name": "민음사TV — 유튜브 공식 채널 캡처(@minumsatv, 구독 약 55만)",
+   "dir": "minumsatv",
+   "type": "manual",
+   "urls": [
+    "https://i.ytimg.com/vi/3YEJtrZv-sI/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/PbWdJzktSTk/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/5wnHv3qM2oI/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/VWoVCqv2EtE/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/d3sbnShswJ0/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/SGUnakyFdcs/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/XdHLSUh7_5I/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/nlNMIHCZ2LI/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/2pqdRep-UOg/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/FmdRTk7WIPE/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/RiR2WGyx46g/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/0lh6Lz0g9Z8/maxresdefault.jpg"
+   ],
+   "credit": "민음사TV 유튜브 공식 채널 캡처",
+   "color": "#c2410c",
+   "addr": "1 역주행 특집(싯다르타·면도날·페드로 파라모) · 2 세계문학전집 월드컵 원편 · 3 명문장 월드컵 32강 · 4 명문장 월드컵 시즌2(싯다르타) · 5 싯다르타 직장인 독서모임 · 6 오만과 편견 독서클럽 · 7 첫 문장 월드컵(이방인) · 8 헤세 3부작(데미안·싯다르타) · 9 추석 특집 월드컵 · 10 민음사 편집자 3인 · 11~12 광인/최악의 애인 월드컵"
+  },
+  {
+   "name": "2026 서울국제불교박람회 — 4/2~5 코엑스, 이틀 12만 명",
+   "dir": "buddhism-expo",
+   "type": [
+    "manual",
+    "google_images"
+   ],
+   "urls": [
+    "https://img1.newsis.com/2026/04/02/NISI20260402_0021231563_web.jpg",
+    "https://img1.newsis.com/2026/04/02/NISI20260402_0021231609_web.jpg",
+    "https://img1.newsis.com/2026/04/02/NISI20260402_0021231626_web.jpg",
+    "https://img1.newsis.com/2026/04/02/NISI20260402_0021231628_web.jpg",
+    "https://img1.newsis.com/2026/04/02/NISI20260402_0021231629_web.jpg",
+    "https://img1.newsis.com/2026/04/02/NISI20260402_0021231632_web.jpg",
+    "https://img1.newsis.com/2026/04/02/NISI20260402_0021232063_web.jpg",
+    "https://img1.newsis.com/2026/04/02/NISI20260402_0021232066_web.jpg",
+    "https://img1.newsis.com/2026/04/02/NISI20260402_0021232081_web.jpg",
+    "https://img1.newsis.com/2026/04/02/NISI20260402_0021232113_web.jpg",
+    "https://img1.newsis.com/2026/04/03/NISI20260403_0002102125_web.jpg",
+    "https://img1.newsis.com/2026/04/03/NISI20260403_0002102168_web.jpg"
+   ],
+   "credit": "⚠️ 뉴시스 — 유료 사진. 사용 시 전재 계약 확인 필요",
+   "color": "#6b21a8",
+   "query": "서울국제불교박람회 코엑스 승복바지 해탈컴퍼니",
+   "addr": "공식 홈페이지가 없고 공식 채널은 인스타 @buddhismexpo_seoul뿐. 승복바지는 해탈컴퍼니 제품"
+  },
+  {
+   "name": "민음사 빵 — GS25 '문학빵' 4종, 책갈피 20종",
+   "dir": "minumsa-bread",
+   "type": [
+    "manual",
+    "google_images"
+   ],
+   "urls": [
+    "https://img.hankyung.com/photo/202609/01.45800738.1.jpg",
+    "https://img.hankyung.com/photo/202609/01.45800739.1.jpg",
+    "https://img.tf.co.kr/article/home/2026/09/04/20261591788488277.jpg",
+    "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/27/img_20260827111959_f98bd98d.jpg",
+    "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/27/img_20260827114653_142a9e09.jpg",
+    "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/27/img_20260827114937_f114ff34.jpg"
+   ],
+   "credit": "GS25(GS리테일) 제공 — 한국경제·더팩트 게재분",
+   "color": "#15803d",
+   "query": "GS25 민음사 문학빵 책갈피",
+   "addr": "민음사 × GS25 × 오늘의 귀여움 협업. ⚠️ 원고의 '9월 초 약 49만 개'는 GS리테일 발표 기준 9/2까지 43만 개로 보도됨 — 수치 확인 필요"
+  },
+  {
+   "name": "『왜 고전을 읽는가』 이탈로 칼비노",
+   "dir": "calvino",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9788937481994.jpg"
+   ],
+   "credit": "교보문고 상품 이미지(민음사 제공)",
+   "color": "#92400e"
+  },
+  {
+   "name": "『인생의 짧음에 대하여』 세네카",
+   "dir": "seneca-short",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9791139725636.jpg"
+   ],
+   "credit": "교보문고 상품 이미지(현대지성 제공)",
+   "color": "#334155",
+   "addr": "\"인생이 짧은 게 아니라 우리가 많은 시간을 흘려보낼 뿐\" 인용 출처"
+  },
+  {
+   "name": "『블랙 스완』 나심 니콜라스 탈레브 — '린디 효과'",
+   "dir": "blackswan",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9788990247674.jpg"
+   ],
+   "credit": "교보문고 상품 이미지(동녘사이언스 제공)",
+   "color": "#111827"
+  },
+  {
+   "name": "① 『명상록』 마르쿠스 아우렐리우스",
+   "dir": "meditations",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9791187142379.jpg",
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9788937470264.jpg",
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9788991290099.jpg",
+    "https://minumsa.com/wp-content/uploads/bookcover/%EC%9D%B8%EB%AC%B8%ED%95%99%ED%81%B4%EB%9E%98%EC%8B%9D6_%EB%AA%85%EC%83%81%EB%A1%9D_%ED%91%9C1.jpg"
+   ],
+   "credit": "교보문고 · 민음사 공식 홈페이지",
+   "color": "#475569",
+   "addr": "1 현대지성 박문재 역 · 2 민음사 김동훈 역 · 3 숲 천병희 역"
+  },
+  {
+   "name": "② 『데미안』 헤르만 헤세 (1919)",
+   "dir": "demian",
+   "type": "manual",
+   "urls": [
+    "https://minumsa.com/wp-content/uploads/bookcover/044_%EB%8D%B0%EB%AF%B8%EC%95%88.jpg",
+    "https://minumsa.com/wp-content/uploads/bookcover/EasyPage_%EB%8D%B0%EB%AF%B8%EC%95%88_%ED%91%9C1.jpg",
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9788937460449.jpg"
+   ],
+   "credit": "민음사 공식 홈페이지 · 교보문고",
+   "color": "#a16207",
+   "addr": "세계문학전집 044, 전영애 역. \"새는 알에서 나오려고 투쟁한다\""
+  },
+  {
+   "name": "③ 『에세』 미셸 드 몽테뉴",
+   "dir": "essais",
+   "type": "manual",
+   "urls": [
+    "https://minumsa.com/wp-content/uploads/bookcover/%EB%AA%BD%ED%85%8C%EB%89%B4%EC%97%90%EC%84%B8123_%EC%84%B8%ED%8A%B8%EC%9E%85%EC%B2%B4%EB%B0%95%EC%8A%A41.jpg",
+    "https://minumsa.com/wp-content/uploads/bookcover/%EB%AA%BD%ED%85%8C%EB%89%B4%EC%97%90%EC%84%B81_%ED%91%9C1.jpg",
+    "https://minumsa.com/wp-content/uploads/bookcover/%EB%AA%BD%ED%85%8C%EB%89%B4%EC%97%90%EC%84%B82_%ED%91%9C1.jpg",
+    "https://minumsa.com/wp-content/uploads/bookcover/%EB%AA%BD%ED%85%8C%EB%89%B4%EC%97%90%EC%84%B83_%ED%91%9C1.jpg"
+   ],
+   "credit": "민음사 공식 홈페이지 · 교보문고",
+   "color": "#065f46",
+   "addr": "민음사 완역본 전 3권(심민화·최권행 역). 1번이 3권 세트 입체컷"
+  },
+  {
+   "name": "④ 『오만과 편견』 제인 오스틴 (1813)",
+   "dir": "pride",
+   "type": "manual",
+   "urls": [
+    "https://minumsa.com/wp-content/uploads/bookcover/088_%EC%98%A4%EB%A7%8C%EA%B3%BC%ED%98%84%EA%B2%AC.jpg",
+    "https://minumsa.com/wp-content/uploads/bookcover/%EC%98%A4%EB%A7%8C%EA%B3%BC%ED%8E%B8%EA%B2%AC_%ED%91%9C1.jpg"
+   ],
+   "credit": "민음사 공식 홈페이지 · 교보문고",
+   "color": "#9d174d",
+   "addr": "1 세계문학전집 088(전승희 역) · 2 민음사 리미티드 에디션 표지"
+  },
+  {
+   "name": "⑤ 『일리아스』 호메로스",
+   "dir": "iliad",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9791139721966.jpg",
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9788952130334.jpg"
+   ],
+   "credit": "교보문고 상품 이미지(현대지성·종로서적 제공)",
+   "color": "#7c2d12",
+   "addr": "1 현대지성 완역본(오디세이아와 같은 판본·박문재 역)"
+  },
+  {
+   "name": "⑥ 부담 없이 — 『변신』 『노인과 바다』 『이방인』",
+   "dir": "short-three",
+   "type": "manual",
+   "urls": [
+    "https://minumsa.com/wp-content/uploads/bookcover/004_%EB%B3%80%EC%8B%A0-%EC%8B%9C%EA%B3%A8%EC%9D%98%EC%82%AC.jpg",
+    "https://minumsa.com/wp-content/uploads/bookcover/Easy_%EB%B3%80%EC%8B%A0%EC%9C%A0%ED%98%95%EC%A7%80%EC%97%90%EC%84%9C_%ED%91%9C1.jpg",
+    "https://minumsa.com/wp-content/uploads/bookcover/278_%EB%85%B8%EC%9D%B8%EA%B3%BC-%EB%B0%94%EB%8B%A4.jpg",
+    "https://minumsa.com/wp-content/uploads/bookcover/EasyPage_%EB%85%B8%EC%9D%B8%EA%B3%BC%EB%B0%94%EB%8B%A4_%ED%91%9C1-1.jpg",
+    "https://minumsa.com/wp-content/uploads/bookcover/266_%EC%9D%B4%EB%B0%A9%EC%9D%B8.jpg",
+    "https://minumsa.com/wp-content/uploads/bookcover/EasyPage_%EC%9D%B4%EB%B0%A9%EC%9D%B8_%ED%91%9C1-1.jpg"
+   ],
+   "credit": "민음사 공식 홈페이지 · 교보문고",
+   "color": "#1e3a5f",
+   "addr": "변신(세계문학전집 004 『변신·시골의사』) / 노인과 바다(278) / 이방인(266). 각 EasyPage 큰글자책 표지 포함"
+  }
+ ]
+}
