@@ -1,0 +1,177 @@
+{
+ "slug": "winter-snack",
+ "title": "붕어빵이 편의점에 먼저 왔다, 겨울 간식 지도 (하퍼스바자 최노아)",
+ "spots": [
+  {
+   "name": "강남붕어빵",
+   "dir": "gangnam_bungeo",
+   "type": "naver_place",
+   "naver_query": "강남붕어빵 강남대로",
+   "addr": "서울 서초구 강남대로 331-3 가로판매대",
+   "color": "#8a4b1c"
+  },
+  {
+   "name": "뿡어당",
+   "dir": "bboongeodang",
+   "type": "naver_place",
+   "naver_query": "뿡어당 성신여대",
+   "addr": "서울 성북구 동선동2가 308",
+   "color": "#a0522d"
+  },
+  {
+   "name": "팥붕슈붕 (대치점 미등록 → 신반포로 지점 업체 사진)",
+   "dir": "patbung_daechi",
+   "type": "kakao_place",
+   "naver_query": "팥붕슈붕",
+   "addr": "원고: 서울 강남구 대치동 989 / 사진: 서울 서초구 신반포로 176 지점",
+   "color": "#7a3e2a"
+  },
+  {
+   "name": "기댈빙 (까붕이)",
+   "dir": "gidaelbing",
+   "type": "naver_place",
+   "naver_query": "기댈빙 성수",
+   "addr": "서울 성동구 서울숲2길 24-8",
+   "color": "#222222"
+  },
+  {
+   "name": "호똑이랑 붕오랑",
+   "dir": "hottok_bungo",
+   "type": "naver_place",
+   "naver_query": "호똑이랑 붕오랑",
+   "addr": "서울 성북구 삼선교로10길 7",
+   "color": "#b5651d"
+  },
+  {
+   "name": "남영역 잉어빵",
+   "dir": "namyeong_ingeo",
+   "type": "naver_place",
+   "naver_query": "남영역 잉어빵",
+   "addr": "서울 용산구 남영역 인근",
+   "color": "#6b3a1e"
+  },
+  {
+   "name": "효공잉어빵",
+   "dir": "hyogong_ingeo",
+   "type": "naver_place",
+   "naver_query": "효공잉어빵 효창공원",
+   "addr": "서울 용산구 효창공원 인근",
+   "color": "#5a2f17"
+  },
+  {
+   "name": "한정선 (과일 찹쌀떡)",
+   "dir": "hanjeongseon",
+   "type": "naver_place",
+   "naver_query": "한정선 성수",
+   "addr": "서울 성동구 성수 본점",
+   "color": "#c9b28a"
+  },
+  {
+   "name": "영도다리떡방 (피자설기 원조)",
+   "dir": "yeongdo_tteok",
+   "type": "naver_place",
+   "naver_query": "영도다리떡방앗간",
+   "addr": "부산 영도구 남항로41번길 21",
+   "color": "#d2691e"
+  },
+  {
+   "name": "삼립 호빵 2026 신제품 20종 (타코·불닭·다마고치·호빵맨)",
+   "dir": "samlip_hoppang",
+   "type": "manual",
+   "urls": [
+    "https://www.smdnewsroom.co.kr/wp-content/uploads/2026/10/보도자료삼립-‘타코-호빵’-등-2026-호빵-신제품-20종-출시…배우-공명-모델-발탁-_20261013.jpg",
+    "https://www.smdnewsroom.co.kr/wp-content/uploads/2026/10/보도자료삼립-‘삼립호빵’-올겨울-호빵-몇-개-따스함-담은-TV-CF-공개_20261028.png",
+    "https://www.smdnewsroom.co.kr/wp-content/uploads/2026/10/보도자료-삼립-‘SIAL-Paris-2026’서-‘이노베이션-셀렉션’-선정_2601008.jpg",
+    "https://www.smdnewsroom.co.kr/wp-content/uploads/2026/10/%EC%8D%B8%EB%84%A4%EC%9D%BC-3.png",
+    "https://www.smdnewsroom.co.kr/wp-content/uploads/2026/10/photo_1-1.png",
+    "https://www.smdnewsroom.co.kr/wp-content/uploads/2026/10/photo_11-1.jpg"
+   ],
+   "credit": "상미당 뉴스룸(삼립 공식 보도자료)",
+   "addr": "김치타코·정통타코·바질치즈·타로밀크티·황치즈·단팥&우유·불닭·다마고치·호빵맨 콜라보 | SIAL 파리 이노베이션 선정 김치호빵",
+   "color": "#e8442b"
+  },
+  {
+   "name": "GS25 × 설빙 피자설기",
+   "dir": "gs25_pizza_seolgi",
+   "type": "manual",
+   "urls": [
+    "https://cdn.specialtimes.co.kr/news/photo/202610/478302_468137_3547.jpg"
+   ],
+   "credit": "GS리테일 제공",
+   "addr": "11월 5일 전국 GS25 판매 (130g, 3,900원)",
+   "color": "#f08a24"
+  },
+  {
+   "name": "GS25 × 한정선 요거트·피스타치오 찹쌀떡",
+   "dir": "gs25_hanjeongseon",
+   "type": "manual",
+   "urls": [
+    "https://economist.co.kr/data/ecn/image/2026/10/16/ecn20261016000070.800x.0.jpg",
+    "https://files-image.mtn.co.kr/K8eDP1DijD/upload/article/2026/10/02/2026100217131965773_00_192.jpg?type=w&w=912&extopt=0",
+    "https://img.mydaily.co.kr/photos/2026/09/03/2026090317590122748_l.jpg",
+    "https://img.mydaily.co.kr/photos/2026/09/03/2026090317560565478_l.jpg"
+   ],
+   "credit": "GS리테일·로로멜로 제공",
+   "addr": "요거트 찹쌀떡 9월 출시 70만 개+ / 피스타치오 10월 15일 출시",
+   "color": "#9bbf5a"
+  },
+  {
+   "name": "GS25 겨울 간식 (군고구마·어묵·붕어빵)",
+   "dir": "gs25_winter",
+   "type": "manual",
+   "urls": [
+    "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/28/202609280922225057.jpg",
+    "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/28/img_20260928092243_d80ce50a.jpg",
+    "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/28/img_20260928092314_ed7619e7.jpg"
+   ],
+   "credit": "GS25 제공",
+   "addr": "10월 1일 동절기 먹거리 판매 개시 · 군고구마+아메리카노 1,000원 할인",
+   "color": "#0a7ac2"
+  },
+  {
+   "name": "CU 피자절편",
+   "dir": "cu_pizza_jeolpyeon",
+   "type": "manual",
+   "urls": [
+    "https://img.hankyung.com/photo/202610/01.45950238.1.jpg",
+    "https://img.hankyung.com/photo/202610/01.45950239.1.jpg"
+   ],
+   "credit": "BGF리테일 제공",
+   "addr": "10월 8일 출시 · 3,800원",
+   "color": "#6a2c8e"
+  },
+  {
+   "name": "CU 즉석조리 콘파이·애플파이",
+   "dir": "cu_pie",
+   "type": "manual",
+   "urls": [
+    "https://cdn.emetro.co.kr/data2/content/image/2026/10/05/20261005500007.jpg"
+   ],
+   "credit": "BGF리테일 제공",
+   "addr": "매장 튀김기 즉석조리 · 개당 2,000원",
+   "color": "#7b3fa0"
+  },
+  {
+   "name": "세븐일레븐 군고구마 (호풍미→베니하루카)",
+   "dir": "seven_goguma",
+   "type": "manual",
+   "urls": [
+    "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/15/img_20260915112821_45603089.jpg"
+   ],
+   "credit": "코리아세븐 제공",
+   "addr": "9월 14일 판매 개시 · 11월까지 호풍미, 12월부터 베니하루카 · 2,200원",
+   "color": "#008061"
+  },
+  {
+   "name": "이마트24 구황작물 간식",
+   "dir": "emart24_goguma",
+   "type": "manual",
+   "urls": [
+    "https://www.youthdaily.co.kr/data/photos/20260936/art_17884084631603_4bffc0.jpg"
+   ],
+   "credit": "이마트24 제공",
+   "addr": "고구마·감자·단호박 활용 상품 5종 (원고 미언급 — 참고용)",
+   "color": "#ffb300"
+  }
+ ]
+}
