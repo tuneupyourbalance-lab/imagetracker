@@ -78,6 +78,50 @@
    "addr": "1 Heart Sutra Beatbox Remix (2020, 조회 939만) · 2 라이브 영상 「소리의 만다라」(일본어 썸네일)"
   },
   {
+   "name": "입는 불교 ① 해탈컴퍼니",
+   "dir": "haetal",
+   "type": [
+    "manual",
+    "google_images"
+   ],
+   "urls": [
+    "https://framerusercontent.com/images/n3mKQdlxEOOCazyGQs6e8bTEc.jpg?scale-down-to=1440",
+    "https://framerusercontent.com/images/tbg3uKHeoKx7FqVDJQFzlCqU.jpg?scale-down-to=1440",
+    "https://framerusercontent.com/images/kgy7dwVlFJaBk6XDJS1nhR85gA.jpg?scale-down-to=1440",
+    "https://framerusercontent.com/images/lCv9QTKN75IVrQpwZPS1ibsp4h4.jpg?scale-down-to=1440",
+    "https://framerusercontent.com/images/nhpg1Nky6tvWEURb6AaZ44SQxo.jpg?scale-down-to=1440",
+    "https://framerusercontent.com/images/sA3TV1LZBK8IJgsu9jqdfBVt4.jpg?scale-down-to=1440",
+    "https://img.29cm.co.kr/item/202609/11f1a7618297f8efb18d8bd72c939c9c.png"
+   ],
+   "credit": "29CM 해탈컴퍼니 기획전·상품 페이지(브랜드 제공)",
+   "query": "해탈컴퍼니 깨닫다 티셔츠",
+   "max": 6,
+   "color": "#d6332b",
+   "addr": "1~4 ‘깨닫다!’ 티셔츠 화보·제품컷 · 5 멤버 단체컷(밴드 해골물) · 6 ‘극락도 락이다’ 키링 · 7 스트레스볼 ‘니마음 말랑이’(광주비엔날레×이구홈) · 이후 ⚠️ Bing 보강"
+  },
+  {
+   "name": "사는 불교 ② 붓쯔 (대한불교조계종)",
+   "dir": "buzz",
+   "type": [
+    "manual",
+    "google_images"
+   ],
+   "urls": [
+    "https://seungso.co.kr/data/goods/1/2026/04/707_temp_17774285566582view.png",
+    "https://seungso.co.kr/data/goods/1/2026/04/707_temp_17774285585119view.png",
+    "https://seungso.co.kr/data/goods/1/2026/05/707_temp_17794267139192view.png",
+    "https://seungso.co.kr/data/goods/1/2026/04/710_temp_17755526785137view.jpg",
+    "https://seungso.co.kr/data/goods/1/2026/06/720_temp_17824505911925view.png",
+    "https://seungso.co.kr/data/goods/1/2026/10/719_temp_17914451656738view.jpg",
+    "https://seungso.co.kr/data/goods/1/2026/10/715_temp_17914399773468view.png"
+   ],
+   "credit": "승소몰(조계종 공식 불교용품몰) 붓쯔 상품 이미지",
+   "query": "붓쯔 불교 굿즈 매장 전법회관",
+   "max": 6,
+   "color": "#2b7fd6",
+   "addr": "조계사 옆 전법회관 1층 · 1 ‘하체붓다’ 티셔츠 · 2~3 스쿼트 부처 티셔츠(제품·러닝 화보) · 4 운동 자세 부처 리무버블 스티커 · 5 타일 아이콘 티셔츠 · 6 주렁키링 · 7 에코백 · 이후 ⚠️ Bing 보강(매장 사진 확인용)"
+  },
+  {
    "name": "『나를 살리는 음식들』 선재 스님",
    "dir": "book-sunjae",
    "type": "manual",
