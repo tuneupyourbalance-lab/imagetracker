@@ -1,0 +1,129 @@
+{
+ "slug": "sansa",
+ "title": "폰으로 가는 절 ‘산사’ — 온라인 절 체험기와 가볍게 시작하는 불교 콘텐츠",
+ "spots": [
+  {
+   "name": "산사 — 공식 이미지 (sansatemple.com)",
+   "dir": "sansa-official",
+   "type": "manual",
+   "urls": [
+    "https://sansatemple.com/og/sansa-rest-20261101-v11.png",
+    "https://sansatemple.com/icon-512.png?v=ccfba25ef8c5"
+   ],
+   "credit": "산사(sansatemple.com) 공식",
+   "color": "#1f5a3d",
+   "addr": "1 공식 대표 이미지(OG) · 2 앱 아이콘. 서비스 내부 화면(법당·동자승)은 직접 캡처 필요"
+  },
+  {
+   "name": "산사 — 뉴스 영상 화면 (참고용)",
+   "dir": "sansa-news",
+   "type": "manual",
+   "urls": [
+    "https://i.ytimg.com/vi/8LeHWgApCP4/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/iOue9AjC06A/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/edsHnuWvgxk/maxresdefault.jpg"
+   ],
+   "credit": "TJB·KNN·KBS 뉴스 유튜브 캡처 (⚠️ 방송사 저작권 — 참고용)",
+   "color": "#555555",
+   "addr": "1 TJB 개발자 인터뷰(조회 92만) · 2 KNN · 3 KBS 경제콘서트 2026.11.03"
+  },
+  {
+   "name": "보는 불교 ① 유튜브 ‘비구니연습생’",
+   "dir": "bikuni",
+   "type": "manual",
+   "urls": [
+    "https://i.ytimg.com/vi/2u-E484x8f8/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/HyOkimB_u84/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/KHZWOOweJWE/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/4cDx62eUuM0/maxresdefault.jpg"
+   ],
+   "credit": "유튜브 ‘비구니연습생’ 채널 캡처",
+   "color": "#7a5c3a",
+   "addr": "1 수륙재 소개(아귀보응경) · 2 불화 ‘아는 척’ 꿀팁 · 3 부처님 손모양 ‘수인’ · 4 2026 힙불교 트렌드 리포트"
+  },
+  {
+   "name": "보는 불교 ② 버튜버 ‘불법스님’",
+   "dir": "illegalmonk",
+   "type": "manual",
+   "urls": [
+    "https://i.ytimg.com/vi/avie5jwzRIs/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/DXJh_vn7hCI/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/_HEJdqdbjHk/maxresdefault.jpg"
+   ],
+   "credit": "유튜브 ‘불법스님’ 채널 캡처",
+   "color": "#4b3f72",
+   "addr": "1 데뷔·사자보이즈 천도재 · 2 데뷔 방송 무편집(2025.07.09) · 3 레옹 신부 합동 방송"
+  },
+  {
+   "name": "보는 불교 ③ ARTUBE — 고려 불화 2,300시간 졸업작품",
+   "dir": "artube",
+   "type": "manual",
+   "urls": [
+    "https://i.ytimg.com/vi/3VjNSfxVynw/maxresdefault.jpg"
+   ],
+   "credit": "유튜브 ARTUBE 채널 캡처",
+   "color": "#9c2f2f",
+   "addr": "‘미대생의 2300시간 졸업작품’ (youtube.com/watch?v=3VjNSfxVynw)"
+  },
+  {
+   "name": "듣는 불교 ④ ‘비트박스 스님’ 아카사카 요게쓰",
+   "dir": "yogetsu",
+   "type": "manual",
+   "urls": [
+    "https://i.ytimg.com/vi/nvIGCMhjkvw/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/Hg8cr8Gb4Zg/maxresdefault.jpg"
+   ],
+   "credit": "유튜브 Yogetsu Akasaka 채널 캡처",
+   "color": "#1f3a5c",
+   "addr": "1 Heart Sutra Beatbox Remix (2020, 조회 939만) · 2 라이브 영상 「소리의 만다라」(일본어 썸네일)"
+  },
+  {
+   "name": "『나를 살리는 음식들』 선재 스님",
+   "dir": "book-sunjae",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9791190457514.jpg",
+    "https://image.aladin.co.kr/product/39518/37/cover500/k262139610_2.jpg"
+   ],
+   "credit": "교보문고·알라딘 상품 이미지(출판사 제공)",
+   "color": "#5a6b2f",
+   "addr": "ISBN 9791190457514 · 1 교보 · 2 알라딘"
+  },
+  {
+   "name": "『다르마의 즐거움』 무쇼 로드니 앨런 그린블랏",
+   "dir": "book-dharma",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9791155800911.jpg",
+    "https://image.aladin.co.kr/product/11061/82/cover500/k382531375_1.jpg"
+   ],
+   "credit": "교보문고·알라딘 상품 이미지(출판사 제공)",
+   "color": "#c27a1f",
+   "addr": "ISBN 9791155800911 · 1 교보 · 2 알라딘"
+  },
+  {
+   "name": "『여름에 내린 눈』 우 조티카 사야도",
+   "dir": "book-snow",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9788955967760.jpg",
+    "https://image.aladin.co.kr/product/9818/7/cover500/8955967764_1.jpg"
+   ],
+   "credit": "교보문고·알라딘 상품 이미지(출판사 제공)",
+   "color": "#3d6b8a",
+   "addr": "ISBN 9788955967760 · 1 교보 · 2 알라딘"
+  },
+  {
+   "name": "『눈부신 하루를 시작하는 108 필사 명상』 법상 스님",
+   "dir": "book-108",
+   "type": "manual",
+   "urls": [
+    "https://contents.kyobobook.co.kr/sih/fit-in/1200x0/pdt/9791155802472.jpg",
+    "https://image.aladin.co.kr/product/35500/38/cover500/k962035655_2.jpg"
+   ],
+   "credit": "교보문고·알라딘 상품 이미지(출판사 제공)",
+   "color": "#b08a3a",
+   "addr": "ISBN 9791155802472 · 1 교보 · 2 알라딘"
+  }
+ ]
+}
