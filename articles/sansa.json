@@ -168,6 +168,164 @@
    "credit": "교보문고·알라딘 상품 이미지(출판사 제공)",
    "color": "#b08a3a",
    "addr": "ISBN 9791155802472 · 1 교보 · 2 알라딘"
+  },
+  {
+   "name": "도심 사찰 1 조계사",
+   "dir": "jogyesa",
+   "type": [
+    "manual",
+    "naver_place"
+   ],
+   "urls": [
+    "https://ts-cdn.com/ups/old/TiImage/P/L/9773.webp",
+    "https://ts-cdn.com/ups/old/TiImage/P/L/9774.webp",
+    "https://ts-cdn.com/ups/old/TiImage/P/L/9775.webp",
+    "https://ts-cdn.com/ups/old/TiImage/P/L/9776.webp"
+   ],
+   "credit": "템플스테이 공식 홈페이지(templestay.com) 사찰 제공",
+   "color": "#8a2b2b",
+   "addr": "서울 종로구 우정국로 55 · 1~4 templestay.com 공식 + 네이버 플레이스 업체 사진",
+   "naver_query": "조계사"
+  },
+  {
+   "name": "도심 사찰 2 길상사",
+   "dir": "kilsangsa",
+   "type": [
+    "manual",
+    "naver_place"
+   ],
+   "urls": [
+    "https://ts-cdn.com/ups/2025/5/30/20250530045817403_3.webp",
+    "https://ts-cdn.com/ups/2025/5/30/20250530045818369_4.webp",
+    "https://ts-cdn.com/ups/2025/5/30/20250530045814945_1.webp",
+    "https://ts-cdn.com/ups/2025/5/30/20250530045816456_2.webp",
+    "https://ts-cdn.com/ups/2025/5/30/20250530045819153_5.webp",
+    "https://ts-cdn.com/ups/2025/5/30/20250530045819838_6.webp"
+   ],
+   "credit": "템플스테이 공식 홈페이지(templestay.com) 사찰 제공",
+   "color": "#3d6b4a",
+   "addr": "서울 성북구 선잠로5길 68 · templestay.com 공식 + 네이버 플레이스 업체 사진",
+   "naver_query": "길상사 성북"
+  },
+  {
+   "name": "도심 사찰 3 봉은사",
+   "dir": "bongeunsa",
+   "type": [
+    "manual",
+    "naver_place"
+   ],
+   "urls": [
+    "https://ts-cdn.com/ups/temple/2026/10/1/20261001102625135_1.webp",
+    "https://ts-cdn.com/ups/temple/2026/10/1/20261001102628359_2.webp",
+    "https://ts-cdn.com/ups/temple/2026/10/1/20261001102631920_3.webp",
+    "https://ts-cdn.com/ups/temple/2026/10/1/20261001102644297_7.webp"
+   ],
+   "credit": "템플스테이 공식 홈페이지(templestay.com) 사찰 제공",
+   "color": "#5a4a8a",
+   "addr": "서울 강남구 봉은사로 531 · templestay.com 공식은 템플스테이 숙소·실내 위주 → 미륵대불·외관은 네이버 플레이스 사진 확인",
+   "naver_query": "봉은사"
+  },
+  {
+   "name": "도심 사찰 4 진관사",
+   "dir": "jinkwansa",
+   "type": [
+    "manual",
+    "naver_place"
+   ],
+   "urls": [
+    "https://ts-cdn.com/ups/old/TiImage/P/L/1575.webp",
+    "https://ts-cdn.com/ups/old/TiImage/P/L/1576.webp",
+    "https://ts-cdn.com/ups/old/TiImage/P/L/1578.webp",
+    "https://ts-cdn.com/ups/old/TiImage/H/L/2348.webp",
+    "https://ts-cdn.com/ups/old/TiImage/H/L/2368.webp",
+    "https://ts-cdn.com/ups/old/TiImage/H/L/2371.webp",
+    "https://ts-cdn.com/ups/old/TiImage/H/L/2380.webp"
+   ],
+   "credit": "템플스테이 공식 홈페이지(templestay.com) 사찰 제공",
+   "color": "#2b5a7a",
+   "addr": "서울 은평구 진관길 73 · templestay.com 공식(장독대·설경·계곡) + 네이버 플레이스 업체 사진",
+   "naver_query": "진관사 은평"
+  },
+  {
+   "name": "템플스테이 · 해남 대흥사 ‘케이블카 타고 새해맞이’ (12/31~1/1)",
+   "dir": "ts-daeheungsa",
+   "type": "manual",
+   "urls": [
+    "https://ts-cdn.com/ups/templePrg/2026/11/1/20261101025106396_1.webp",
+    "https://ts-cdn.com/ups/templePrg/2026/11/1/20261101025108147_2.webp",
+    "https://ts-cdn.com/ups/templePrg/2026/11/1/20261101025109837_3.webp",
+    "https://ts-cdn.com/ups/templePrg/2026/11/1/20261101025115204_6.webp"
+   ],
+   "credit": "템플스테이 공식 홈페이지(templestay.com) 사찰 제공",
+   "color": "#c2410c",
+   "addr": "프로그램 페이지 공식 사진(지난 새해맞이 현장) · 1000px"
+  },
+  {
+   "name": "템플스테이 · 장성 백양사 정관스님 사찰음식",
+   "dir": "ts-baekyangsa",
+   "type": "manual",
+   "urls": [
+    "https://ts-cdn.com/ups/templePrg/2026/3/31/20260331024731444_1.webp",
+    "https://ts-cdn.com/ups/templePrg/2026/3/31/20260331024732473_2.webp",
+    "https://ts-cdn.com/ups/templePrg/2025/12/21/20251221052605398_2.webp",
+    "https://ts-cdn.com/ups/templePrg/2026/3/6/20260306015356622_1.webp",
+    "https://ts-cdn.com/ups/templePrg/2025/12/21/20251221052605301_1.webp"
+   ],
+   "credit": "템플스테이 공식 홈페이지(templestay.com) 사찰 제공",
+   "color": "#7a5c2b",
+   "addr": "‘정관스님의 사찰음식 수행과 선명상’ 프로그램 사진 · ⚠️ 해상도 낮음(약 460px)"
+  },
+  {
+   "name": "템플스테이 · 공주 학림사 천연염색",
+   "dir": "ts-hakrimsa",
+   "type": "manual",
+   "urls": [
+    "https://ts-cdn.com/ups/templePrg/2025/8/17/20250817045945671_1.webp",
+    "https://ts-cdn.com/ups/templePrg/2025/8/17/20250817045945755_2.webp"
+   ],
+   "credit": "템플스테이 공식 홈페이지(templestay.com) 사찰 제공",
+   "color": "#2b6b7a",
+   "addr": "‘내 손으로 물들이는 천연염색체험 & 선명상’ · ⚠️ 해상도 낮음"
+  },
+  {
+   "name": "템플스테이 · 곶감 만들기 (고창 선운사)",
+   "dir": "ts-gotgam",
+   "type": "manual",
+   "urls": [
+    "https://ts-cdn.com/ups/templePrg/2026/10/5/20261005104922204_2.webp",
+    "https://ts-cdn.com/ups/templePrg/2026/10/5/20261005104923059_3.webp",
+    "https://ts-cdn.com/ups/templePrg/2026/10/5/20261005104924614_4.webp",
+    "https://ts-cdn.com/ups/templePrg/2026/10/5/20261005104925525_5.webp"
+   ],
+   "credit": "템플스테이 공식 홈페이지(templestay.com) 사찰 제공",
+   "color": "#d97706",
+   "addr": "원고엔 사찰명 없음 → 선운사 ‘곶감 만들기’(11/20 하루) 사진. 구례 천은사도 곶감 프로그램 있음 · ⚠️ 해상도 낮음"
+  },
+  {
+   "name": "템플스테이 · 강릉 용연사 새해 해맞이",
+   "dir": "ts-yongyeonsa",
+   "type": "manual",
+   "urls": [
+    "https://ts-cdn.com/ups/templePrg/2026/10/19/20261019090030299_5.webp",
+    "https://ts-cdn.com/ups/templePrg/2026/10/19/20261019090031396_6.webp",
+    "https://ts-cdn.com/ups/templePrg/2026/10/19/20261019090032426_7.webp"
+   ],
+   "credit": "템플스테이 공식 홈페이지(templestay.com) 사찰 제공",
+   "color": "#3a3a6b",
+   "addr": "‘아듀 2026 웰컴 2027’ 새해 특별 프로그램 · 새벽 경내 사진"
+  },
+  {
+   "name": "템플스테이 · 고양 흥국사",
+   "dir": "ts-heungguksa",
+   "type": "manual",
+   "urls": [
+    "https://ts-cdn.com/ups/templePrg/2026/6/22/20260622105511872_7.webp",
+    "https://ts-cdn.com/ups/templePrg/2026/6/22/20260622105509116_4.webp",
+    "https://ts-cdn.com/ups/templePrg/2026/6/22/20260622105506360_1.webp"
+   ],
+   "credit": "템플스테이 공식 홈페이지(templestay.com) 사찰 제공",
+   "color": "#4a6b3a",
+   "addr": "‘도파민 디톡스’는 지난겨울 프로그램이라 현재 페이지 없음 → 흥국사 경내 공식 사진 · ⚠️ 해상도 낮음"
   }
  ]
 }
