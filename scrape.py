@@ -166,6 +166,32 @@ def ig_fetch_profile_playwright(account, ig_session):
                 page.mouse.wheel(0, 2600); page.wait_for_timeout(1800)
         except Exception as e:
             print(f"  Playwright 로드 실패: {e}")
+        # (2026-11-06) 세션이 로그아웃 상태면 GraphQL 응답에서 노드가 안 잡힘 —
+        # 로그아웃 화면에도 최신 그리드 ~12개는 렌더되므로 DOM에서 직접 긁는 fallback.
+        # img alt(자동 생성 캡션 + 본문 일부)를 caption으로 써서 키워드 점수 계산에 활용.
+        if not nodes:
+            try:
+                dom = page.eval_on_selector_all(
+                    'a[href*="/p/"], a[href*="/reel/"]',
+                    """els => els.map(e => {
+                        const img = e.querySelector('img') || {};
+                        let best = img.src || '', bw = 0;
+                        (img.srcset || '').split(',').forEach(s => {
+                            const [u, w] = s.trim().split(' ');
+                            const n = parseInt(w || '0');
+                            if (u && n > bw) { bw = n; best = u; }
+                        });
+                        return [e.getAttribute('href'), best, img.alt || ''];
+                    })""")
+                for href, src, alt in dom:
+                    m = re.search(r'/(?:p|reel)/([^/]+)/', href or "")
+                    if m and src and m.group(1) not in nodes:
+                        nodes[m.group(1)] = {"url": src, "caption": alt}
+                if nodes:
+                    print(f"  ⚠️  인스타 세션 로그아웃 상태 — DOM 그리드 fallback {len(nodes)}개 "
+                          f"(재로그인: python3 setup_chrome_login.py)")
+            except Exception as e:
+                print(f"  DOM fallback 실패: {e}")
         ctx.close()
 
     posts = {code: {"img_url": info["url"], "caption": info["caption"]} for code, info in nodes.items()}

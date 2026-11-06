@@ -1,0 +1,294 @@
+{
+ "slug": "seoul-foliage",
+ "title": "서울 단풍은 지금부터! 지하철 타고 가는 서울 단풍길 4곳과 근처에서 볼 곳·먹을 곳·쉬어 갈 곳",
+ "spots": [
+  {
+   "name": "[단풍길] 삼청동길 — 서울시 공식",
+   "dir": "road_samcheong",
+   "type": "manual",
+   "color": "#b8860b",
+   "credit": "서울시 ‘내 손안에 서울’(mediahub.seoul.go.kr) · 공공누리 제4유형(출처표시·비상업·변경금지) — 시민기자 사진은 기자명 함께 표기",
+   "addr": "1 서울시 누리집 ‘서울 단풍길’ 페이지 대표컷(300px 소형) · 2 2026 단풍길 110선 보도사진 · 3 2025 보도(동십자각~삼청터널) · 4 국립민속박물관→삼청동(염지연, 2025.11) · 5 국립고궁박물관 은행나무(염지연) · 6·7 삼청로·경복궁 돌담(김아름, 2024) · 8·9 삼청동길(엄윤주, 2023)",
+   "urls": [
+    "https://www.seoul.go.kr/story/autumn/img/img-pic2-1.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2026/11/aPDLJDrYsZXidcqSGcezxzCCYTCESDed.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2025/10/ZSzNHDEXfjyWSovHyjjYjGirCbJySHrw.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2025/11/QEMBwAnmHtZwvebLEJiceHDOLWZjMLvv.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2025/11/xdwlLlokTKMEneMvEEDRUQmkVpbXkTfh.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2024/10/KtKZPctvRpgqUWVKsHwNVNOWggTNMRzk.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2024/10/YJyzpsNBLiryAJnjsScjMiYuKSEzRYCq.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2023/10/uLKVBGkmUQWWQjbGtwpduSPJAUOUhpQY.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2023/10/pmHzeFyVLXrUDnpOZQnrroaGZNdMeMdz.jpg"
+   ]
+  },
+  {
+   "name": "SEE 국립현대미술관 서울 《서도호》",
+   "dir": "mmca_suhdoho",
+   "type": [
+    "manual",
+    "instagram",
+    "google_images"
+   ],
+   "account": "mmcakorea",
+   "keywords": "서도호 suh 도호 집 home 천 fabric",
+   "query": "서도호 국립현대미술관 서울관 2026 전시 설치 전경",
+   "color": "#3c3c3c",
+   "credit": "국립현대미술관 공식 홈페이지",
+   "addr": "서울 종로구 삼청로 30 · manual 1 전시 포스터(800px) · 2 ‹둥지/들› 2024 (작가·리만머핀·빅토리아 미로 제공 © 서도호, 563px 소형). 고해상 보도사진은 MMCA 홍보팀 요청 필요",
+   "urls": [
+    "https://www.mmca.go.kr/upload/exhibition/2026/08/2026080601320984017478.png",
+    "https://www.mmca.go.kr/upload/exhibition/2026/01/dse_2026012011283931614924.jpg"
+   ]
+  },
+  {
+   "name": "EAT 안암",
+   "dir": "anam",
+   "type": [
+    "instagram",
+    "naver_place"
+   ],
+   "account": "anam_inanguk",
+   "naver_query": "안암 종로구 북촌로5길 국밥",
+   "kakao_place_id": "546321169",
+   "addr": "서울 종로구 북촌로5길 10",
+   "color": "#4a5d23",
+   "keywords": "국밥 안암국밥 고수 제육 라임 튀김 바위",
+   "naver_place_id": "1580604511"
+  },
+  {
+   "name": "DRINK 시노라 북촌점",
+   "dir": "sinola",
+   "type": [
+    "instagram",
+    "naver_place"
+   ],
+   "account": "cafesinola",
+   "naver_query": "시노라 북촌점",
+   "addr": "서울 종로구 계동길 82",
+   "color": "#6b3e26",
+   "keywords": "북촌 계동 프렌치토스트 french toast 토스트 LP 레코드 record 드립",
+   "naver_place_id": "1854868735"
+  },
+  {
+   "name": "[단풍길] 양재천 — 서울시 공식",
+   "dir": "road_yangjae",
+   "type": "manual",
+   "color": "#8b5a2b",
+   "credit": "서울시 ‘내 손안에 서울’(mediahub.seoul.go.kr) · 공공누리 제4유형(출처표시·비상업·변경금지) — 시민기자 사진은 기자명 함께 표기",
+   "addr": "1 남쪽 언덕 산책로 단풍·낙엽(박칠성, 2021.11) · 2 북쪽 언덕 산책로(박칠성) · 3 양재천 전경(박칠성) · 4 천변 꽃길(박칠성) · 5 영동교 인근 산책길(김진호, 2025.10) · 6 양재천 입구 메타세쿼이아(김진호) · 7 양재천 수변(조수용)",
+   "urls": [
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2021/11/QbTPKtAauDFIgSiSGXlVYsmdTjXZmVWv.JPG",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2021/11/IvYUzgdtFexMhaTybvUXXFPPDWqurFmi.JPG",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2021/11/ZWLXyLPsfrUTzeBCewATybPWuMDOXMVC.JPG",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2021/11/KbsctwjGHTNxBBaugKDuDKzvFWkXUzHs.JPG",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2025/10/kJHPQieQSUPucPmHuTVENhXOzXpqCBbY.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2025/10/hVWTOBvexGJTJoLaCPNwVjlmSqsRwzeX.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2025/10/jmNVBmcSWFqyjYmmPEftglXWhkeHEwhK.jpg"
+   ]
+  },
+  {
+   "name": "[단풍길] 매헌시민의숲 — 서울시 공식",
+   "dir": "road_maeheon",
+   "type": "manual",
+   "color": "#a0522d",
+   "credit": "서울시 ‘내 손안에 서울’(mediahub.seoul.go.kr) · 공공누리 제4유형(출처표시·비상업·변경금지) — 시민기자 사진은 기자명 함께 표기",
+   "addr": "1 매헌시민의숲 단풍 산책로(2024.11) · 2 단풍 물든 숲(2025.11) · 3·4 햇살과 단풍(김진호, 2025.10) · 5 단풍잎 클로즈업(김진호) · 6 어린이놀이터 주변 단풍(김진호)",
+   "urls": [
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2024/11/lFjGkiYsKaHlAukJPOqCPDqOnBwJgOqM.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2025/10/XzFjkBshQWLqkrKmXxveDACjrDzDcexE.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2025/10/cIjvWAhPrudchuCbIVzQQpdpsHhRHQzc.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2025/10/LDsUdNrTYCSvXgvnjcXLCCoTUJzrpWBO.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2025/10/NeUQrPuKcNKkFrRTgCaazUVUgYHIJvoZ.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2025/10/wwJiVKzycHDPoeLVNAdZfGaRdiiHKrbS.jpg"
+   ]
+  },
+  {
+   "name": "SEE 카페 모호 (1층)",
+   "dir": "cafe_moho",
+   "type": [
+    "instagram",
+    "naver_place"
+   ],
+   "account": "cafe_moho",
+   "naver_query": "카페모호 양재",
+   "kakao_place_id": "1041908169",
+   "addr": "서울 서초구 양재천로7길 1",
+   "color": "#5b4636",
+   "keywords": "양재 모호크림 크림 일랑일랑 살랑살랑 사박사박 드립 창 단풍 가을",
+   "naver_place_id": "1360411248"
+  },
+  {
+   "name": "SEE 쉐이프오브타임 (지하 1층)",
+   "dir": "shape_of_time",
+   "type": "instagram",
+   "account": "shape_of_time",
+   "addr": "서울 서초구 양재천로7길 1 B1",
+   "color": "#2f3e46",
+   "keywords": "서점 책 book books 전시 북토크 워크숍 workshop 오브제"
+  },
+  {
+   "name": "EAT 악소",
+   "dir": "achso",
+   "type": [
+    "instagram",
+    "naver_place"
+   ],
+   "account": "achso_bakery",
+   "naver_query": "악소 양재",
+   "kakao_place_id": "1119413400",
+   "addr": "서울 서초구 양재천로19길 14",
+   "color": "#7a5230",
+   "keywords": "브뢰첸 샌드위치 브랏부어스트 소시지 사워크라우트 살라미 호밀 프레첼",
+   "naver_place_id": "1849448523"
+  },
+  {
+   "name": "DRINK 앨리스 프로젝트",
+   "dir": "alice_project",
+   "type": [
+    "instagram",
+    "naver_place"
+   ],
+   "account": "alice.project_seoul",
+   "naver_query": "앨리스프로젝트 양재",
+   "kakao_place_id": "735652037",
+   "addr": "서울 서초구 양재천로 107-4",
+   "color": "#8e6c8a",
+   "keywords": "코스 course 레몬 피스타치오 케이크 비트 파슬리 페어링 디저트 아이스크림",
+   "naver_place_id": "1256201853"
+  },
+  {
+   "name": "[단풍길] 안산 자락길 — 서울시·서대문구 공식",
+   "dir": "road_ansan",
+   "type": [
+    "manual",
+    "google_images"
+   ],
+   "color": "#556b2f",
+   "credit": "서울시 ‘내 손안에 서울’(mediahub.seoul.go.kr) · 공공누리 제4유형(출처표시·비상업·변경금지) — 시민기자 사진은 기자명 함께 표기 / 서대문구청 블로그",
+   "query": "안산 자락길 가을 단풍 메타세쿼이아",
+   "addr": "1 서울시 누리집 ‘서울 단풍길’ 안산 산책로 대표컷(300px 소형, 가을) · 2 메타세쿼이아 숲(김은주, 2023.3) · 3 메타세쿼이아 데크(김정원, 2023.4) · 4 메타세쿼이아 구간(최용수, 2025.4) · 5 무장애 데크길(2026.5) · 6 전망대에서 본 인왕산·북한산(2026.5) · 7 전망대(김은주) · 8 서대문구청 블로그 ‘안산 자락길’ 지도. ⚠️ 공식 쪽엔 가을 메타세쿼이아 컷이 없어 Bing 보강 첨부",
+   "urls": [
+    "https://www.seoul.go.kr/story/autumn/img/img-pic4-2.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2023/03/seqAEGwanwKkwXtsHydjlTiXjZbhTykI.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2023/04/nFUCxwTgwSLnDgUnpMZEjYyxePxeaaGv.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2025/04/LUrAklPeHXGblpJCprIDxfUQlwCNEGfi.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2026/05/BSmNoDatluNuGDdnrFAtzONQPIwwaPDR.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2026/05/uaBeefWUgmjFAFzUHOvSnCXROMwpzfEb.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2023/03/LqlQxmFIGdFywQlgsqvYsORrNvNgrtNI.jpg",
+    "https://t1.daumcdn.net/cfile/tistory/233B414D5445B88D26"
+   ]
+  },
+  {
+   "name": "SEE 무악재 하늘다리 — 서울시 공식",
+   "dir": "muakjae",
+   "type": [
+    "manual",
+    "google_images"
+   ],
+   "color": "#607d8b",
+   "credit": "서울시 ‘내 손안에 서울’(mediahub.seoul.go.kr) · 공공누리 제4유형(출처표시·비상업·변경금지) — 시민기자 사진은 기자명 함께 표기",
+   "query": "무악재 하늘다리 가을 단풍",
+   "addr": "1 하늘다리 전경(서대문 이음길, 2026.2) · 2 하늘다리 안내석(최용수, 2019) · 3 하늘다리 방향 표지판(2026.2). ⚠️ 단풍철 컷은 공식에 없어 Bing 보강 첨부",
+   "urls": [
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2026/02/gjUvAMtaVUOaeYIZIBeOAKJIUdWWltHg.jpg",
+    "https://mediahub.seoul.go.kr/wp-content/uploads/2019/06/8a68961bc8288595cf67a60cff6aa1cb.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2026/02/RdpgMXmMWSalrNozhCtePHCqRiBAtfNC.jpg"
+   ]
+  },
+  {
+   "name": "EAT PICB(피아이씨비)",
+   "dir": "picb",
+   "type": [
+    "instagram",
+    "naver_place"
+   ],
+   "account": "pickerb_official",
+   "naver_query": "피아이씨비 통일로",
+   "kakao_place_id": "1787104357",
+   "addr": "서울 종로구 통일로 230 경희궁 롯데캐슬 상가 1층 124호",
+   "color": "#b5452b",
+   "keywords": "맥적 약고추장 소갈비 마르게리타 margherita pizza 피자 화덕 페어링 커피 coffee",
+   "naver_place_id": "2012235435"
+  },
+  {
+   "name": "DRINK 티하우스 탄정",
+   "dir": "tannjeong",
+   "type": [
+    "instagram",
+    "naver_place"
+   ],
+   "account": "tannjeong",
+   "naver_query": "티하우스 탄정 연희동",
+   "kakao_place_id": "954722523",
+   "addr": "서울 서대문구 연희로11가길 8-8",
+   "color": "#4f6b3a",
+   "keywords": "말차 격불 다식 파르페 양갱 탄정세트 세트 잎차 다기",
+   "naver_place_id": "2005080330"
+  },
+  {
+   "name": "[단풍길] 워커힐로 — 서울시 공식",
+   "dir": "road_walkerhill",
+   "type": [
+    "manual",
+    "google_images"
+   ],
+   "color": "#c0392b",
+   "credit": "서울시 ‘내 손안에 서울’(mediahub.seoul.go.kr) · 공공누리 제4유형(출처표시·비상업·변경금지) — 시민기자 사진은 기자명 함께 표기",
+   "query": "워커힐로 단풍 터널 데크길 아차산생태공원",
+   "addr": "1 워커힐길에 연결된 산책로(문청야, 2020.11) · 2 아차산 은행나무·단풍(문청야) · 3 아차산생태공원 정자 단풍(문청야) · 4 아차산생태공원(문청야) · 5 아차산 둘레길 단풍(문청야) · 6 가을 아차산생태공원(문청야) · 7 생태공원 습지원 데크(김미선, 2025.11) · 8 워커힐로 단풍(여행스토리 호호, 2017). ⚠️ ‘단풍 터널’ 정면 컷은 Bing 보강 참고",
+   "urls": [
+    "https://mediahub.seoul.go.kr/wp-content/uploads/editor/images/000532/_CYL9422.jpg",
+    "https://mediahub.seoul.go.kr/wp-content/uploads/editor/images/000532/_CYL9428.jpg",
+    "https://mediahub.seoul.go.kr/wp-content/uploads/editor/images/000532/_CYL9554.jpg",
+    "https://mediahub.seoul.go.kr/wp-content/uploads/editor/images/000532/_CYL9430.jpg",
+    "https://mediahub.seoul.go.kr/wp-content/uploads/editor/images/000532/_CYL9539.jpg",
+    "https://mediahub.seoul.go.kr/wp-content/uploads/editor/images/000532/_CYL9565.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2025/11/ScQyIXSRuZvbyPwipeNJRlEKSnkEXBuE.jpg",
+    "https://mediahub.seoul.go.kr/wp-content/uploads/2017/10/7363ba58f0683c90f36db022340ff718.jpg"
+   ]
+  },
+  {
+   "name": "SEE 아차산 고구려정 — 서울시 공식",
+   "dir": "goguryeojeong",
+   "type": "manual",
+   "color": "#8b0000",
+   "credit": "서울시 ‘내 손안에 서울’(mediahub.seoul.go.kr) · 공공누리 제4유형(출처표시·비상업·변경금지) — 시민기자 사진은 기자명 함께 표기",
+   "addr": "서울 광진구 구의동 아차산 · 1 고구려정(2023.5) · 2 정상 팔각정과 시민들(문청야, 2020.11 가을) · 3 해맞이광장에서 본 한강(2023.5) · 4 아차산성에서 본 한강(문청야, 가을) · 5 해맞이공원(2023.10)",
+   "urls": [
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2023/05/sFgLgCXnfnQlZKvfRCZbAHmPiEJgWcAj.jpg",
+    "https://mediahub.seoul.go.kr/wp-content/uploads/editor/images/000532/_CYL9505.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2023/05/pyyGCNuGAeBtwnKeFSajbSEPaHEJCQBf.jpg",
+    "https://mediahub.seoul.go.kr/wp-content/uploads/editor/images/000532/_CYL9470.jpg",
+    "https://mediahub.seoul.go.kr/uploads/mediahub/2023/10/aXWodjfCfKTgwVdZBGpLLNcSMPrYcHtH.JPG"
+   ]
+  },
+  {
+   "name": "EAT 묘향손만두",
+   "dir": "myohyang",
+   "type": [
+    "naver_place",
+    "google_images"
+   ],
+   "naver_query": "묘향손만두 구리 아차산로",
+   "kakao_place_id": "7878450",
+   "query": "묘향손만두 구리 만두전골 찐만두",
+   "addr": "경기 구리시 아차산로 63 · 공식 인스타 없음",
+   "color": "#a67c52",
+   "naver_place_id": "11667161"
+  },
+  {
+   "name": "DRINK 괴르츠",
+   "dir": "goerz",
+   "type": [
+    "naver_place",
+    "google_images"
+   ],
+   "naver_query": "괴르츠 광진구 아차산로78길",
+   "kakao_place_id": "1032871178",
+   "query": "괴르츠 광진 워커힐 카페 LP 한강",
+   "addr": "서울 광진구 아차산로78길 110 리버힐오피스텔 101호 · 공식 인스타 없음(마포 토정로 동명 업소와 혼동 주의)",
+   "color": "#3b2f2f",
+   "naver_place_id": "397426492"
+  }
+ ]
+}
