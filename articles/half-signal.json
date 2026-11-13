@@ -1,0 +1,280 @@
+{
+ "slug": "half-signal",
+ "title": "갱년기를 미리 공부하는 여자들 — 하프 시그널",
+ "spots": [
+  {
+   "name": "『트렌드 코리아 2027』 — 하프 시그널",
+   "dir": "trendkorea2027",
+   "type": "manual",
+   "color": "#e8692c",
+   "credit": "미래의창 도서 표지(알라딘) · 유튜브 ‘트렌드코리아’·‘KBS 1라디오’ 캡처",
+   "addr": "1 국문판 표지 · 2 영문판 『2027 K-Consumer Trend Insights』 표지 · 3 트렌드코리아 공식 채널 ‘2027 트렌드 요약’ · 4 KBS 1라디오 ‘하프시그널’ 편(한다혜 연구위원)",
+   "urls": [
+    "https://image.aladin.co.kr/product/40134/41/cover500/k642131067_3.jpg",
+    "https://image.aladin.co.kr/product/40439/16/cover500/k012131506_1.jpg",
+    "https://i.ytimg.com/vi/aMM92QDdwrU/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/ej5kX5ZnwoY/maxresdefault.jpg"
+   ]
+  },
+  {
+   "name": "한화손보 펨테크연구소 ‘뉴년기 트렌드 리포트’",
+   "dir": "hanwha_report",
+   "type": "manual",
+   "color": "#f37321",
+   "credit": "한화손해보험 제공 · 유튜브 ‘한화손보’ 공식 채널 캡처",
+   "addr": "1 리포트 1편 ‘하프 시그널’ 보도사진(한화손해보험 제공, 2025.9) · 2 ‘NEW년기 트렌드리포트’ 발표 영상 · 3 2편 발표 · 4 ‘건강 리셋’ · 5 ‘패밀리셋’",
+   "urls": [
+    "https://wimg.heraldcorp.com/news/cms/2025/09/03/news-p.v1.20250903.27aaefe24f324fd69f82a6889a195fa7_P1.jpg",
+    "https://i.ytimg.com/vi/wvjdmboz1yA/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/f1cn2A0qAc4/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/oqYieEx1EmQ/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/LeemHh0G4r8/maxresdefault.jpg"
+   ]
+  },
+  {
+   "name": "식약처 — 건강기능식품 인증마크 카드뉴스",
+   "dir": "mfds",
+   "type": "manual",
+   "color": "#00857c",
+   "credit": "식품의약품안전처(부산지방식약청) 카드뉴스 ‘건강기능식품 이야기’ (2026.5)",
+   "addr": "인증마크 확인법 안내 8장. ※ 식약처가 2026년 도안 개정을 행정예고함(공고 제2026-314호) — 최종 도안 확인 필요",
+   "urls": [
+    "https://www.mfds.go.kr/files/upload/cms/rgn0024/20260520055558919.jpg",
+    "https://www.mfds.go.kr/files/upload/cms/rgn0024/20260520055619615.jpg",
+    "https://www.mfds.go.kr/files/upload/cms/rgn0024/20260520055642031.jpg",
+    "https://www.mfds.go.kr/files/upload/cms/rgn0024/20260520055653802.jpg",
+    "https://www.mfds.go.kr/files/upload/cms/rgn0024/20260520055705601.jpg",
+    "https://www.mfds.go.kr/files/upload/cms/rgn0024/20260520055716646.jpg",
+    "https://www.mfds.go.kr/files/upload/cms/rgn0024/20260520055729190.jpg",
+    "https://www.mfds.go.kr/files/upload/cms/rgn0024/20260520055741400.jpg"
+   ]
+  },
+  {
+   "name": "한국소비자원 — 루바브 일반식품 조사(2026.1)",
+   "dir": "kca_rhubarb",
+   "type": "google_images",
+   "query": "한국소비자원 루바브 일반식품 갱년기 조사 결과",
+   "color": "#1f4e8c",
+   "addr": "⚠️ 소비자원 원문 보도자료 이미지 미확보 — Bing 참고용. 원문은 kca.go.kr 보도자료(2026.1.13)"
+  },
+  {
+   "name": "미셸 오바마 — 「미셸 오바마 팟캐스트」",
+   "dir": "michelle_obama",
+   "type": "manual",
+   "color": "#5b2c6f",
+   "credit": "유튜브 ‘Michelle Obama’ 공식 채널(IMO 팟캐스트) 캡처",
+   "addr": "1 ‘DR. SHARON MALONE is Back to talk Menopause’ · 2 ‘DR. SHARON MALONE on Women’s Health’ · ※ 원고 속 2020년 회차(‘What Your Mother Never Told You About Health’)는 Spotify 단독 공개 — open.spotify.com/episode/6roJUCIX5Gqs8j4QkDHEWT, 커버아트는 직접 캡처 필요",
+   "urls": [
+    "https://i.ytimg.com/vi/5EWrKs5_AKE/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/ablSb_oaF0A/maxresdefault.jpg"
+   ]
+  },
+  {
+   "name": "나오미 왓츠 — 『Dare I Say It』·스트라이프스 뷰티",
+   "dir": "naomi_watts",
+   "type": [
+    "manual",
+    "instagram"
+   ],
+   "account": "naomiwatts",
+   "keywords": "dare say menopause book stripes 갱년기 meno",
+   "color": "#d6336c",
+   "credit": "출판사 도서 표지(알라딘) · Stripes Beauty 공식 홈페이지 · 유튜브 ‘Stripes Beauty’ 공식 채널",
+   "addr": "1 『Dare I Say It』 페이퍼백 · 2 하드커버(2025.1) · 3·4·5 stripesbeauty.com 공식 이미지 · 6 ‘Naomi Watts Shares Her Menopause Journey’ · 7 WSJ ‘Future of Everything’ 갱년기 토크 · 8 ‘The Story Behind Stripes Beauty’ · + @naomiwatts 인스타",
+   "urls": [
+    "https://image.aladin.co.kr/product/37936/75/cover500/0593729056_2.jpg",
+    "https://image.aladin.co.kr/product/33815/96/cover500/1785045466_2.jpg",
+    "https://stripesbeauty.com/cdn/shop/files/hero-dt.png",
+    "https://stripesbeauty.com/cdn/shop/files/image_3.png",
+    "https://cdn.shopify.com/s/files/1/0661/5538/0798/files/Meno-Essential2_1080x_9692a435-e461-4569-b1f3-5ce0541a68b3.webp",
+    "https://i.ytimg.com/vi/TQ3BN9rS_7g/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/B8uDvryOVt8/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/JFv1UnDvm0s/maxresdefault.jpg"
+   ]
+  },
+  {
+   "name": "할리 베리 — 미 의회 ‘I’m in menopause!’ (2024.5)",
+   "dir": "halle_berry",
+   "type": [
+    "manual",
+    "instagram"
+   ],
+   "account": "halleberry",
+   "keywords": "menopause meno respin 갱년기 bill",
+   "color": "#8b1e3f",
+   "credit": "유튜브 ‘Senator Patty Murray’ 공식 채널 · ⚠️ AP·ABC·NBC·The View 보도 영상 캡처(참고용)",
+   "addr": "1 패티 머리 상원의원 공식 채널 생중계(썸네일은 로고 — 영상 프레임 직접 캡처 필요) · 2 AP · 3 ABC News ‘I’m in menopause!’ · 4 NBC News · 5 The View — 뉴섬 거부권 비판(2025.12) · 6 Forbes Breaking News · + @halleberry 인스타. 현장 보도사진은 Getty/AP/CQ Roll Call 유료",
+   "urls": [
+    "https://i.ytimg.com/vi/IvR59idcOz8/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/PUh5WMl2QDo/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/1EPkN-8mF6M/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/UDtxbEGqf1s/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/9ZNFQFerAGk/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/s_q0elxILCo/maxresdefault.jpg"
+   ]
+  },
+  {
+   "name": "한고은 — 유튜브 ‘고은언니 한고은’",
+   "dir": "han_goeun",
+   "type": "manual",
+   "color": "#c2185b",
+   "credit": "유튜브 ‘고은언니 한고은’ 채널 캡처",
+   "addr": "1 갱년기 시작 고백 회차(장영란 부부 방문, 2025.10.9 — ‘땀이 훅 났다가 오한’) · 2 ‘50세 갱년기 한고은 최근 건강상태’(고은손님 EP.4) · 3 ‘인바디 결과에 충격받은 이유’(2026.11, 체중)",
+   "urls": [
+    "https://i.ytimg.com/vi/Q3tJfQjhH-w/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/3sUvnAlQye4/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/8owK_lPZxyg/maxresdefault.jpg"
+   ]
+  },
+  {
+   "name": "김준희 — 인스타그램 @evajunie",
+   "dir": "kim_junhee",
+   "type": [
+    "instagram",
+    "manual"
+   ],
+   "account": "evajunie",
+   "keywords": "갱년기 눈물 위로 열 땀 호르몬",
+   "color": "#6a1b9a",
+   "credit": "⚠️ 뉴시스 기사 속 ‘김준희 인스타그램 캡처’(참고용) — 원본은 @evajunie 2026.1.14 게시물",
+   "addr": "manual 1 2026.1.14 ‘갱년기 쉽지 않네…이유 없이 눈물’ 게시물 캡처 · 2 2026.1.19 후속 게시물 캡처 · IG 그리드는 최신 게시물 위주라 1월 원본 게시물은 직접 찾아 캡처 필요",
+   "urls": [
+    "https://img1.newsis.com/2026/01/15/NISI20260115_0002041534_web.jpg",
+    "https://img1.newsis.com/2026/01/19/NISI20260119_0002043505_web.jpg"
+   ]
+  },
+  {
+   "name": "김가연 — 유튜브 ‘밉지않은 관종언니’",
+   "dir": "kim_gayeon",
+   "type": "manual",
+   "color": "#ad1457",
+   "credit": "유튜브 ‘밉지않은 관종언니’(이지혜) 채널 캡처",
+   "addr": "‘55세 김가연 억대연봉 8살 연하 임요환 사로잡은 방법’(2026.8.20) — “갱년기가 진작부터 와 있다, 감정 기복이 장난 아니다”",
+   "urls": [
+    "https://i.ytimg.com/vi/hY4mmHQDD10/maxresdefault.jpg"
+   ]
+  },
+  {
+   "name": "영국 — 정부 갱년기 지원 계획·포셋 소사이어티·CIPD",
+   "dir": "uk_workplace",
+   "type": [
+    "manual",
+    "google_images"
+   ],
+   "query": "CIPD menopause at work report",
+   "color": "#012169",
+   "credit": "GOV.UK(Open Government Licence) · Fawcett Society 공식 홈페이지",
+   "addr": "1 GOV.UK ‘Government launches landmark gender pay gap and menopause action plans’(2026.3) — 브리짓 필립슨 장관 · 2 Fawcett Society ‘Menopause and the Workplace’ 대표 이미지 · CIPD 사이트는 접근 차단(403) — Bing 참고",
+   "urls": [
+    "https://assets.publishing.service.gov.uk/media/69a6fa11b9bd90e63a252230/s960_s465_bridget-phillipson.jpg",
+    "https://www.fawcettsociety.org.uk/handlers/getimage.ashx?idmf=baf00737-3234-42df-a77c-12a687ac012c&w=1200&h=630&f=1"
+   ]
+  },
+  {
+   "name": "갱년기 다룬 TV 프로그램",
+   "dir": "tv_programs",
+   "type": "manual",
+   "color": "#37474f",
+   "credit": "KBS·EBS·tvN 공식 유튜브 채널 캡처",
+   "addr": "1 KBS 생로병사의 비밀 ‘50대에 필연적으로 찾아오는 갱년기’ · 2 생로병사 ‘여성호르몬이 사라지면 혈관도 무너진다’ · 3 생로병사 ‘갱년기증후군의 증상과 치료’(2022.12.28) · 4 생로병사 ‘갱년기가 몸에 변화를 일으키는 이유’(2021.7.21) · 5 EBS 명의 ‘갱년기가 이렇게까지 힘든 줄 몰랐어요’ · 6 EBS 귀하신 몸 60화 ‘갱년기, 왜 나는 아플까?’ · 7 EBS 귀하신 몸 갱년기 편 · 8 tvN 어쩌다 어른 — 산부인과 전문의 김지연",
+   "urls": [
+    "https://i.ytimg.com/vi/MnatX8W0Fzs/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/B_Lbhmpd0z4/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/qCE45vEyqcs/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/GqmQTxZI3po/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/RKSoRerUzRU/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/KeYH0MQ2b34/hqdefault.jpg",
+    "https://i.ytimg.com/vi/8yn8mcXexms/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/G2zOdqO4-Ak/maxresdefault.jpg"
+   ]
+  },
+  {
+   "name": "BOOK 『갱년기 골든타임』 이홍주, 초목서가",
+   "dir": "book_goldentime",
+   "type": "manual",
+   "color": "#795548",
+   "credit": "출판사 도서 표지(알라딘 제공 이미지, 500px)",
+   "addr": "표지 1종",
+   "urls": [
+    "https://image.aladin.co.kr/product/39615/12/cover500/k682130974_1.jpg"
+   ]
+  },
+  {
+   "name": "BOOK 『아는 만큼 편해지는 갱년기 상담소』 한스미디어",
+   "dir": "book_counsel",
+   "type": "manual",
+   "color": "#795548",
+   "credit": "출판사 도서 표지(알라딘 제공 이미지, 500px)",
+   "addr": "표지 1종",
+   "urls": [
+    "https://image.aladin.co.kr/product/40129/90/cover500/k742131864_1.jpg"
+   ]
+  },
+  {
+   "name": "BOOK 『갱년기 리부트』 정지인, 드림셀러",
+   "dir": "book_reboot",
+   "type": "manual",
+   "color": "#795548",
+   "credit": "출판사 도서 표지(알라딘 제공 이미지, 500px)",
+   "addr": "표지 1종",
+   "urls": [
+    "https://image.aladin.co.kr/product/38157/49/cover500/k562034403_1.jpg"
+   ]
+  },
+  {
+   "name": "BOOK 『여성의 몸 여성의 지혜』 크리스티안 노스럽, 한문화",
+   "dir": "book_northrup",
+   "type": "manual",
+   "color": "#795548",
+   "credit": "출판사 도서 표지(알라딘 제공 이미지, 500px)",
+   "addr": "표지 1종",
+   "urls": [
+    "https://image.aladin.co.kr/product/1417/91/cover500/8956991243_1.jpg"
+   ]
+  },
+  {
+   "name": "BOOK 『괜찮아, 나를 위한 시간』 박젬마, 작가의집",
+   "dir": "book_gemma",
+   "type": "manual",
+   "color": "#795548",
+   "credit": "출판사 도서 표지(알라딘 제공 이미지, 500px)",
+   "addr": "표지 1종",
+   "urls": [
+    "https://image.aladin.co.kr/product/38398/77/cover500/k012135181_2.jpg"
+   ]
+  },
+  {
+   "name": "BOOK 『어느 날 문득 어른이 되었습니다』 마스다 미리, 이봄",
+   "dir": "book_masuda",
+   "type": "manual",
+   "color": "#795548",
+   "credit": "출판사 도서 표지(알라딘 제공 이미지, 500px)",
+   "addr": "표지 1종",
+   "urls": [
+    "https://image.aladin.co.kr/product/3763/21/cover500/8954624170_2.jpg"
+   ]
+  },
+  {
+   "name": "BOOK 『마흔에 관하여』 정여울, 한겨레출판",
+   "dir": "book_forty",
+   "type": "manual",
+   "color": "#795548",
+   "credit": "출판사 도서 표지(알라딘 제공 이미지, 500px)",
+   "addr": "표지 1종",
+   "urls": [
+    "https://image.aladin.co.kr/product/17427/59/cover500/k632534903_1.jpg"
+   ]
+  },
+  {
+   "name": "BOOK 『사는 게 뭐라고』 사노 요코, 마음산책",
+   "dir": "book_sano",
+   "type": "manual",
+   "color": "#795548",
+   "credit": "출판사 도서 표지(알라딘 제공 이미지, 500px)",
+   "addr": "표지 1종",
+   "urls": [
+    "https://image.aladin.co.kr/product/6283/71/cover500/8960902292_2.jpg"
+   ]
+  }
+ ]
+}
