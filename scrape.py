@@ -804,7 +804,7 @@ def card_ig(item, spot, slug):
   <div class="img-wrap">
     <img src="{web_path}" loading="lazy" onerror="this.closest('.card').style.display='none'">
     <span class="badge" style="background:#e1306c">Instagram</span>
-    <a class="dl-btn" href="{_dl_url(web_path, f'{dir_name}_{post_id}')}">⬇ 저장</a>
+    <a class="dl-btn" href="{_dl_url(web_path, f'인스타그램 @{account}_{post_id}')}">⬇ 저장</a>
   </div>
   <div class="meta">
     <p class="attr">사진/ @{account}</p>

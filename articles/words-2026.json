@@ -103,6 +103,59 @@
    ]
   },
   {
+   "name": "빅시(Bixie) — 2026 레드카펫",
+   "dir": "bixie",
+   "type": "manual",
+   "color": "#b5838d",
+   "credit": "위키미디어 커먼즈",
+   "addr": "자유 라이선스 사진 — 크레딧(작가·라이선스) 표기 필수. 1·2 젠데이아, 「오디세이」 뉴욕 프리미어(2026.7.14, 웨이브 숏컷) · 3·4 그레이시 에이브럼스, 2026 멧 갈라(빅시 가장 선명) · 5 제시 버클리, 「The Bride」 런던 프리미어(2026.2)",
+   "urls": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Zendaya-byPhilipRomano8.jpg/1280px-Zendaya-byPhilipRomano8.jpg",
+     "credit": "PhilipRomano CC BY-SA 4.0 위키미디어커먼즈",
+     "src": "https://commons.wikimedia.org/wiki/File:Zendaya-byPhilipRomano8.jpg"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Zendaya-byPhilipRomano3.jpg/1280px-Zendaya-byPhilipRomano3.jpg",
+     "credit": "PhilipRomano CC BY-SA 4.0 위키미디어커먼즈",
+     "src": "https://commons.wikimedia.org/wiki/File:Zendaya-byPhilipRomano3.jpg"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Guests_at_the_2026_Met_Gala_268.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "credit": "SWinxy CC BY 4.0 위키미디어커먼즈",
+     "src": "https://commons.wikimedia.org/wiki/File:Guests_at_the_2026_Met_Gala_268.jpg"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Gracie_Abrams_at_the_2026_Met_Gala_268_%28cropped%29.jpg",
+     "credit": "SWinxy CC BY 4.0 위키미디어커먼즈",
+     "src": "https://commons.wikimedia.org/wiki/File:Gracie_Abrams_at_the_2026_Met_Gala_268_(cropped).jpg"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Jessie_Buckley_at_The_Bride_Movie%2C_London%2C_February_2026.jpg/1280px-Jessie_Buckley_at_The_Bride_Movie%2C_London%2C_February_2026.jpg",
+     "credit": "Marlene Landu CC BY-SA 4.0 위키미디어커먼즈",
+     "src": "https://commons.wikimedia.org/wiki/File:Jessie_Buckley_at_The_Bride_Movie,_London,_February_2026.jpg"
+    }
+   ]
+  },
+  {
+   "name": "빅시(Bixie) — 그레이시 에이브럼스 공식 인스타그램",
+   "dir": "bixie_gracieabrams",
+   "type": "instagram",
+   "account": "gracieabrams",
+   "keywords": "hair haircut bixie bob pixie oscars bafta red carpet premiere short",
+   "color": "#b5838d",
+   "addr": "@gracieabrams 본인 공식 계정. ⚠️ 게시물 속 사진은 포토그래퍼·매체 저작권일 수 있음 — 게시물 크레딧 확인"
+  },
+  {
+   "name": "빅시(Bixie) — 릴리 콜린스 공식 인스타그램",
+   "dir": "bixie_lilyjcollins",
+   "type": "instagram",
+   "account": "lilyjcollins",
+   "keywords": "hair haircut bixie bob pixie oscars bafta red carpet premiere short",
+   "color": "#b5838d",
+   "addr": "@lilyjcollins 본인 공식 계정. ⚠️ 게시물 속 사진은 포토그래퍼·매체 저작권일 수 있음 — 게시물 크레딧 확인"
+  },
+  {
    "name": "카스프레딩(Carspreading)",
    "dir": "carspreading",
    "type": "manual",
