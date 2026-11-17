@@ -1,0 +1,211 @@
+{
+ "slug": "words-2026",
+ "title": "2026년에는 어떤 단어가? — 올해의 단어들",
+ "spots": [
+  {
+   "name": "맥싱(Maxxing) — 딕셔너리닷컴 2026 올해의 단어",
+   "dir": "maxxing",
+   "type": "manual",
+   "color": "#1a73e8",
+   "credit": "딕셔너리닷컴 제공",
+   "addr": "1 2026 올해의 단어 발표 이미지 · 2·3 maxxing 사용량 그래프 (딕셔너리닷컴 공식 발표 페이지)",
+   "urls": [
+    {
+     "url": "https://www.dictionary.com/e/wp-content/uploads/2026/10/20210436/WOTY_2026_new_1920x1080.webp",
+     "credit": "딕셔너리닷컴 제공",
+     "src": "https://www.dictionary.com/e/word-of-the-year-2026/"
+    },
+    {
+     "url": "https://lexipress-prod.s3.amazonaws.com/e/wp-content/uploads/2026/10/26141826/WOTY_2026_graph1.webp",
+     "credit": "딕셔너리닷컴 제공",
+     "src": "https://www.dictionary.com/e/word-of-the-year-2026/"
+    },
+    {
+     "url": "https://lexipress-prod.s3.amazonaws.com/e/wp-content/uploads/2026/10/26141821/WOTY_2026_graph2.webp",
+     "credit": "딕셔너리닷컴 제공",
+     "src": "https://www.dictionary.com/e/word-of-the-year-2026/"
+    }
+   ]
+  },
+  {
+   "name": "모깅(Mogging) — 콜린스 2026 올해의 단어",
+   "dir": "mogging",
+   "type": "manual",
+   "color": "#c8102e",
+   "credit": "콜린스 사전 제공",
+   "addr": "콜린스 공식 블로그 ‘Collins Word of the Year 2026’ 대표 배너 (2026.11.3 발표)",
+   "urls": [
+    {
+     "url": "https://s28434.pcdn.co/wp-content/uploads/sites/39/2026/11/26.10.30_WOTY2026_Bannerv2_1920x1080.png",
+     "credit": "콜린스 사전 제공",
+     "src": "https://blog.collinsdictionary.com/language-lovers/collins-word-of-the-year-2026/"
+    }
+   ]
+  },
+  {
+   "name": "오디세이(Odyssey) — 크리스토퍼 놀란 「오디세이」",
+   "dir": "odyssey",
+   "type": "manual",
+   "color": "#2c3e50",
+   "credit": "유니버설 픽처스 제공",
+   "addr": "유니버설 픽처스 공식 유튜브 예고편 썸네일 3종 (1 공식 예고편 · 2 새 예고편 · 3 카운트다운 예고편)",
+   "urls": [
+    {
+     "url": "https://i.ytimg.com/vi/Mzw2ttJD2qQ/maxresdefault.jpg",
+     "credit": "유니버설 픽처스 공식 예고편 캡처",
+     "src": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/f_bKjZeJBBI/maxresdefault.jpg",
+     "credit": "유니버설 픽처스 공식 예고편 캡처",
+     "src": "https://www.youtube.com/watch?v=f_bKjZeJBBI"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/AyIZ9tiiN8I/maxresdefault.jpg",
+     "credit": "유니버설 픽처스 공식 예고편 캡처",
+     "src": "https://www.youtube.com/watch?v=AyIZ9tiiN8I"
+    }
+   ]
+  },
+  {
+   "name": "데이터센터(Data center)",
+   "dir": "data_center",
+   "type": "manual",
+   "color": "#455a64",
+   "credit": "위키미디어 커먼즈",
+   "addr": "자유 라이선스 사진 — 크레딧 표기 필수. 1 CC0(퍼블릭 도메인) · 2 CC BY-SA 3.0",
+   "urls": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1280px-Data_center_roof.jpg",
+     "credit": "Rsparks3 CC0 위키미디어커먼즈",
+     "src": "https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+     "credit": "BalticServers.com CC BY-SA 3.0 위키미디어커먼즈",
+     "src": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+    }
+   ]
+  },
+  {
+   "name": "고스트 잡(Ghost job)",
+   "dir": "ghost_job",
+   "type": "manual",
+   "color": "#7f8c8d",
+   "credit": "위키미디어 커먼즈",
+   "addr": "채용 공고 표지판 사진 (CC BY-SA 4.0 — 크레딧 표기 필수)",
+   "urls": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Weekend_help_wanted_sign_at_the_Wibra%2C_Winschoten_%282019%29_01.jpg/1280px-Weekend_help_wanted_sign_at_the_Wibra%2C_Winschoten_%282019%29_01.jpg",
+     "credit": "Donald Trung Quoc Don CC BY-SA 4.0 위키미디어커먼즈",
+     "src": "https://commons.wikimedia.org/wiki/File:Weekend_help_wanted_sign_at_the_Wibra,_Winschoten_(2019)_01.jpg"
+    }
+   ]
+  },
+  {
+   "name": "카스프레딩(Carspreading)",
+   "dir": "carspreading",
+   "type": "manual",
+   "color": "#34495e",
+   "credit": "위키미디어 커먼즈",
+   "addr": "대형 SUV 사진 (CC BY 2.0 — 크레딧 표기 필수)",
+   "urls": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mercedes-Benz_G63_AMG_V8_BITURBO_SUV_%2850703492437%29.jpg/1280px-Mercedes-Benz_G63_AMG_V8_BITURBO_SUV_%2850703492437%29.jpg",
+     "credit": "silver-novice CC BY 2.0 위키미디어커먼즈",
+     "src": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_G63_AMG_V8_BITURBO_SUV_(50703492437).jpg"
+    }
+   ]
+  },
+  {
+   "name": "프렌즈슬롭(Friendslop) — 대표 게임",
+   "dir": "friendslop",
+   "type": "manual",
+   "color": "#8e44ad",
+   "credit": "Steam 공식 스토어",
+   "addr": "프렌즈슬롭으로 자주 꼽히는 협동 인디 게임의 Steam 공식 대표 이미지 · 1 PEAK · 2 R.E.P.O. · 3 Lethal Company",
+   "urls": [
+    {
+     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+     "credit": "PEAK 공식 Steam 스토어",
+     "src": "https://store.steampowered.com/app/3527290/"
+    },
+    {
+     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg",
+     "credit": "semiwork REPO 공식 Steam 스토어",
+     "src": "https://store.steampowered.com/app/3241660/"
+    },
+    {
+     "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
+     "credit": "Zeekerss Lethal Company 공식 Steam 스토어",
+     "src": "https://store.steampowered.com/app/1966720/"
+    }
+   ]
+  },
+  {
+   "name": "일본 ‘신어·유행어 대상’ 2026",
+   "dir": "ryukougo",
+   "type": "manual",
+   "color": "#d35400",
+   "credit": "자유국민사 제공",
+   "addr": "주최사 자유국민사(自由国民社) 공식 홈페이지 — 1 『현대용어의 기초지식』 2027 표지 · 2 공식 배너. 후보 30개 발표 11.5, 대상·톱10 발표 12.1",
+   "urls": [
+    {
+     "url": "https://www.jiyu.co.jp/cmsdesigner/data/entry/singobook/singobook.00001.00000001.jpg",
+     "credit": "자유국민사 공식 홈페이지",
+     "src": "https://www.jiyu.co.jp/singo/"
+    },
+    {
+     "url": "https://www.jiyu.co.jp/singo/images/banner_2027_01.jpg",
+     "credit": "자유국민사 공식 홈페이지",
+     "src": "https://www.jiyu.co.jp/singo/"
+    }
+   ]
+  },
+  {
+   "name": "셋로그(setlog) — 뉴챗",
+   "dir": "setlog",
+   "type": "manual",
+   "color": "#111111",
+   "credit": "뉴챗 제공",
+   "addr": "1·2 뉴챗(New Chat Inc.) 공식 홈페이지 · 3~7 앱스토어 공식 스크린샷 (개발사 등록)",
+   "urls": [
+    {
+     "url": "https://setlog.kr/setlog-preview-1440.png",
+     "credit": "뉴챗 공식 홈페이지",
+     "src": "https://setlog.app/"
+    },
+    {
+     "url": "https://newchat.kr/link_preview.png",
+     "credit": "뉴챗 공식 홈페이지",
+     "src": "https://setlog.app/"
+    },
+    {
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/df/cc/dddfcc05-b384-180c-a35e-d910bf38f62f/English_2.png/1000x0w.jpg",
+     "credit": "뉴챗 앱스토어 공식 스크린샷",
+     "src": "https://apps.apple.com/kr/app/setlog/id6587576438"
+    },
+    {
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/df/5b/d8df5b41-9d25-fcd9-e406-ac8651a3830f/AppStore_SS_9.png/1000x0w.jpg",
+     "credit": "뉴챗 앱스토어 공식 스크린샷",
+     "src": "https://apps.apple.com/kr/app/setlog/id6587576438"
+    },
+    {
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/2d/24/952d2472-9542-096a-9cbf-e611c77fde50/AppStore_SS_10.png/1000x0w.jpg",
+     "credit": "뉴챗 앱스토어 공식 스크린샷",
+     "src": "https://apps.apple.com/kr/app/setlog/id6587576438"
+    },
+    {
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/09/9f/4e099f08-71bb-404b-099e-41dba389d4cb/AppStore_SS_17.png/1000x0w.jpg",
+     "credit": "뉴챗 앱스토어 공식 스크린샷",
+     "src": "https://apps.apple.com/kr/app/setlog/id6587576438"
+    },
+    {
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/bb/cc/46bbcc79-b6f0-34e4-6273-66e668f63c90/AppStore_SS_18.png/1000x0w.jpg",
+     "credit": "뉴챗 앱스토어 공식 스크린샷",
+     "src": "https://apps.apple.com/kr/app/setlog/id6587576438"
+    }
+   ]
+  }
+ ]
+}

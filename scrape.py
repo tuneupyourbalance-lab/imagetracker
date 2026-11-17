@@ -541,7 +541,13 @@ def scrape_manual(spot, slug):
 
     VALID_EXTS = {"jpg", "jpeg", "png", "webp", "gif"}
     saved = []
-    for i, url in enumerate(urls):
+    for i, entry in enumerate(urls):
+        # urls 항목은 문자열 또는 {"url", "credit", "src"} 객체.
+        # 객체면 이미지별 출처(credit)를 카드에 표시하고 다운로드 파일명도 출처로 만든다
+        # (2026-11-17 words-2026: "출처를 이미지 저장 제목으로" 요청).
+        item_credit = entry.get("credit") if isinstance(entry, dict) else None
+        src_page    = entry.get("src") if isinstance(entry, dict) else None
+        url         = entry["url"] if isinstance(entry, dict) else entry
         # Scene7류 다이나믹 이미지 CDN(예: L'Artisan Parfumeur)은 URL에 파일 확장자가
         # 아예 없어서(경로만 있음), 무작정 마지막 "."로 rsplit하면 도메인의 ".com"에
         # 걸려 "com/is/image/..." 같은 존재하지 않는 하위경로가 확장자로 잡히는 버그가 있었음.
@@ -560,7 +566,8 @@ def scrape_manual(spot, slug):
             r = requests.get(url, headers=m_headers, timeout=20)
             r.raise_for_status()
             fname.write_bytes(r.content)
-            saved.append({"path": str(fname), "src_url": url})
+            saved.append({"path": str(fname), "src_url": src_page or url,
+                          "credit": item_credit, "idx": i + 1})
             print(f"    저장: {fname.name}")
         except Exception as e:
             print(f"    다운로드 실패 [{i}]: {e}")
@@ -882,12 +889,15 @@ def card_manual(item, spot, slug):
     dir_name = spot["dir"]
     fname    = Path(item["path"]).name
     web_path = f"/ref/images/{slug}/{dir_name}/{fname}"
-    credit   = spot.get("credit", "업체 제공")
+    credit   = item.get("credit") or spot.get("credit", "업체 제공")
+    # 이미지별 credit이 있으면 다운로드 파일명 = "출처_스팟_번호"
+    dl_name  = (f"{item['credit']}_{dir_name}_{item.get('idx', 0):02d}"
+                if item.get("credit") else f"{dir_name}_{fname}")
     return f"""<div class="card manual-card">
   <div class="img-wrap">
     <img src="{web_path}" loading="lazy" onerror="this.closest('.card').style.display='none'">
     <span class="badge" style="background:#888">직접제공</span>
-    <a class="dl-btn" href="{_dl_url(web_path, f'{dir_name}_{fname}')}">⬇ 저장</a>
+    <a class="dl-btn" href="{_dl_url(web_path, dl_name)}">⬇ 저장</a>
   </div>
   <div class="meta">
     <p class="attr">사진/ {credit}</p>
